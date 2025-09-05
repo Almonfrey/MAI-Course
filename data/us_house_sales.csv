@@ -2,16 +2,16 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$554,217","5926 Oak Ave, San Diego, CA 65383",San Diego,65383,CA,1 bds,3 ba,,4757 sqft,1959,101,Townhouse,Z104635,Alex Johnson - Compass,For Sale,https://www.zillow.com/homedetails/80374762_zpid/
 "$164,454","9583 Oak Ave, Fresno, IL 79339",Fresno,79339,IL,1 bds,1 ba,,3615 sqft,1969,46,Apartment,Z535721,Emily Davis - Century 21,Sold,https://www.zillow.com/homedetails/86143665_zpid/
 ,"8224 Oak Ave, Sacramento, TX 87393",Sacramento,87393,TX,6 bds,1 ba,3630 sqft,9369 sqft,1990,59,Townhouse,Z900458,Mike Lee - Coldwell Banker,For Sale,https://www.zillow.com/homedetails/37082403_zpid/
-"$189,267","232 Oak Ave, Fresno, TX 38666",Fresno,38666,TX,2 bds,1 ba,605 sqft,8804 sqft,1958,119,Apartment,Z318589,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/39318132_zpid/
-"$465,778","5446 Pine Rd, Los Angeles, CA 23989",Los Angeles,23989,CA,3 bds,2 ba,1711 sqft,9260 sqft,2020,26,Townhouse,Z899716,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/22454634_zpid/
+"$189,267","232 Oak Ave, Fresno, TX 38666",Fresno,38666,TX,2 bds,1 ba,-605 sqft,8804 sqft,1958,119,Apartment,Z318589,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/39318132_zpid/
+"$465,778","5446 Pine Rd, Los Angeles, CA 23989",Los Angeles,23989,CA,0 bds,2 ba,1711 sqft,9260 sqft,2020,26,Townhouse,Z899716,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/22454634_zpid/
 "$738,357","9202 Maple Dr, Sacramento, NY 71318",Sacramento,71318,NY,5 bds,3 ba,1177 sqft,8317 sqft,,35,Multi-Family,Z865468,Jane Smith - Keller Williams,Pending,https://www.zillow.com/homedetails/90690049_zpid/
 "$1,325,395","2698 Elm St, Sacramento, NY 57421",Sacramento,57421,NY,6 bds,1 ba,1990 sqft,5592 sqft,,94,Townhouse,Z689873,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/99288749_zpid/
 "$1,158,003","2118 Main St, San Diego, IL 64361",San Diego,64361,IL,2 bds,2 ba,1008 sqft,6010 sqft,,75,Townhouse,Z329631,John Doe - RE/MAX,For Sale,https://www.zillow.com/homedetails/91922548_zpid/
 "$240,095","9474 Main St, San Francisco, FL 13227",San Francisco,13227,FL,6 bds,2 ba,929 sqft,5449 sqft,1975,79,Townhouse,Z839936,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/79694016_zpid/
-"$1,356,448","8803 Maple Dr, San Diego, NY 57397",San Diego,57397,NY,2 bds,3 ba,2094 sqft,2179 sqft,1970,111,Multi-Family,Z264011,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/13312383_zpid/
+"$4,356,448","8803 Maple Dr, San Diego, NY 57397",San Diego,57397,NY,2 bds,3 ba,2094 sqft,2179 sqft,1970,111,Multi-Family,Z264011,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/13312383_zpid/
 "$678,604","7535 Elm St, San Diego, FL 70072",San Diego,70072,FL,3 bds,3 ba,2350 sqft,,2013,25,Multi-Family,Z298501,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/27502592_zpid/
 "$1,264,926","413 Main St, Fresno, CA 57401",Fresno,57401,CA,3 bds,1 ba,2407 sqft,,1989,79,Apartment,Z282442,Emily Davis - Century 21,Sold,https://www.zillow.com/homedetails/63532546_zpid/
-"$645,962","9692 Maple Dr, Los Angeles, CA 91395",Los Angeles,91395,CA,4 bds,3 ba,2746 sqft,8256 sqft,2008,11,Condo,Z855977,Emily Davis - Century 21,Pending,https://www.zillow.com/homedetails/20308759_zpid/
+"$645,962","9692 Maple Dr, Los Angeles, CA 91395",Los Angeles,91395,CA,4 bds,3 ba,-2746 sqft,8256 sqft,2008,11,Condo,Z855977,Emily Davis - Century 21,Pending,https://www.zillow.com/homedetails/20308759_zpid/
 ,"905 Oak Ave, Sacramento, NY 28568",Sacramento,28568,NY,1 bds,4 ba,3387 sqft,1740 sqft,1966,97,Condo,Z166677,Jane Smith - Keller Williams,Pending,https://www.zillow.com/homedetails/36948512_zpid/
 "$507,793","8699 Elm St, Fresno, CA 29191",Fresno,29191,CA,5 bds,4 ba,3480 sqft,2022 sqft,2007,66,,Z751795,Emily Davis - Century 21,Sold,https://www.zillow.com/homedetails/44716305_zpid/
 "$1,171,629","2475 Elm St, Sacramento, TX 63853",Sacramento,63853,TX,2 bds,4 ba,2351 sqft,2275 sqft,2007,46,,Z325594,Alex Johnson - Compass,For Sale,https://www.zillow.com/homedetails/51686892_zpid/
@@ -28,10 +28,10 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$1,444,036","517 Elm St, San Diego, CA 73665",San Diego,73665,CA,6 bds,3 ba,743 sqft,8853 sqft,2018,50,Townhouse,Z964910,John Doe - RE/MAX,Sold,https://www.zillow.com/homedetails/87129932_zpid/
 "$831,525","982 Oak Ave, Sacramento, CA 45375",Sacramento,45375,CA,4 bds,3 ba,1165 sqft,3128 sqft,1954,57,Townhouse,Z275900,Alex Johnson - Compass,For Sale,https://www.zillow.com/homedetails/87871884_zpid/
 "$911,317","7675 Maple Dr, Los Angeles, NY 25618",Los Angeles,25618,NY,3 bds,2 ba,908 sqft,1492 sqft,1963,42,Apartment,Z313548,Emily Davis - Century 21,Sold,https://www.zillow.com/homedetails/28093606_zpid/
-"$858,386","1580 Elm St, San Francisco, FL 11309",San Francisco,11309,FL,2 bds,2 ba,1475 sqft,1926 sqft,1983,102,Multi-Family,Z747104,Emily Davis - Century 21,Sold,https://www.zillow.com/homedetails/97041337_zpid/
-"$705,506","8382 Main St, Sacramento, CA 74703",Sacramento,74703,CA,6 bds,1 ba,3892 sqft,4133 sqft,1985,113,Townhouse,Z131077,Jane Smith - Keller Williams,Pending,https://www.zillow.com/homedetails/11583738_zpid/
+"$-858,386","1580 Elm St, San Francisco, FL 11309",San Francisco,11309,FL,2 bds,2 ba,1475 sqft,1926 sqft,1983,102,Multi-Family,Z747104,Emily Davis - Century 21,Sold,https://www.zillow.com/homedetails/97041337_zpid/
+"$705,506","8382 Main St, Sacramento, CA 74703",Sacramento,74703,CA,6 bds,1 ba,0 sqft,4133 sqft,1985,113,Townhouse,Z131077,Jane Smith - Keller Williams,Pending,https://www.zillow.com/homedetails/11583738_zpid/
 "$1,461,297","1193 Oak Ave, San Diego, NY 19858",San Diego,19858,NY,1 bds,3 ba,3156 sqft,2935 sqft,1961,61,Apartment,Z713668,Jane Smith - Keller Williams,Sold,https://www.zillow.com/homedetails/53525900_zpid/
-"$630,339","4020 Elm St, San Diego, IL 93752",San Diego,93752,IL,1 bds,4 ba,1752 sqft,3040 sqft,1993,61,Single Family,Z221816,Mike Lee - Coldwell Banker,For Sale,https://www.zillow.com/homedetails/67849427_zpid/
+"$-630,339","4020 Elm St, San Diego, IL 93752",San Diego,93752,IL,1 bds,4 ba,1752 sqft,3040 sqft,1993,61,Single Family,Z221816,Mike Lee - Coldwell Banker,For Sale,https://www.zillow.com/homedetails/67849427_zpid/
 "$268,142","7473 Maple Dr, Los Angeles, CA 61325",Los Angeles,61325,CA,6 bds,4 ba,3778 sqft,3988 sqft,2012,8,Single Family,Z231590,Jane Smith - Keller Williams,For Sale,https://www.zillow.com/homedetails/97057722_zpid/
 "$1,250,016","4820 Pine Rd, San Francisco, NY 44242",San Francisco,44242,NY,3 bds,4 ba,3551 sqft,1230 sqft,1961,58,Multi-Family,Z326594,Jane Smith - Keller Williams,For Sale,https://www.zillow.com/homedetails/28415062_zpid/
 "$1,231,600","345 Elm St, San Diego, CA 65902",San Diego,65902,CA,1 bds,3 ba,3640 sqft,9593 sqft,2008,108,Single Family,Z651394,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/60421528_zpid/
@@ -74,7 +74,7 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$442,170","464 Pine Rd, San Francisco, CA 63085",San Francisco,63085,CA,6 bds,4 ba,1647 sqft,6299 sqft,2008,52,Apartment,Z193241,Jane Smith - Keller Williams,Sold,https://www.zillow.com/homedetails/52606141_zpid/
 "$1,081,035","7627 Main St, Los Angeles, NY 23864",Los Angeles,23864,NY,5 bds,4 ba,2892 sqft,8833 sqft,2002,52,Multi-Family,Z142018,Mike Lee - Coldwell Banker,For Sale,https://www.zillow.com/homedetails/53294841_zpid/
 "$249,975","2204 Pine Rd, Fresno, TX 21440",Fresno,21440,TX,5 bds,1 ba,2625 sqft,5667 sqft,1968,96,Townhouse,Z997581,Emily Davis - Century 21,Sold,https://www.zillow.com/homedetails/31949828_zpid/
-"$754,480","522 Main St, San Diego, IL 83545",San Diego,83545,IL,1 bds,4 ba,2042 sqft,4863 sqft,1958,120,Multi-Family,Z763768,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/67571739_zpid/
+"$754,480","522 Main St, San Diego, IL 83545",San Diego,83545,IL,1 bds,4 ba,-2042 sqft,4863 sqft,1958,120,Multi-Family,Z763768,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/67571739_zpid/
 "$362,957","5171 Pine Rd, Los Angeles, IL 39506",Los Angeles,39506,IL,5 bds,2 ba,3482 sqft,1702 sqft,2011,92,Apartment,Z869944,Jane Smith - Keller Williams,Sold,https://www.zillow.com/homedetails/36246636_zpid/
 "$1,387,573","3305 Main St, San Diego, IL 98587",San Diego,98587,IL,3 bds,4 ba,1949 sqft,5913 sqft,,84,Single Family,Z148977,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/29097953_zpid/
 "$1,257,567","3106 Oak Ave, Fresno, IL 66989",Fresno,66989,IL,2 bds,1 ba,3887 sqft,8829 sqft,1957,43,Condo,Z842773,Alex Johnson - Compass,Sold,https://www.zillow.com/homedetails/67020386_zpid/
@@ -138,7 +138,7 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$441,645","2130 Oak Ave, San Diego, CA 32946",San Diego,32946,CA,2 bds,1 ba,3733 sqft,1332 sqft,1960,114,Condo,Z284002,John Doe - RE/MAX,Sold,https://www.zillow.com/homedetails/18950527_zpid/
 "$1,296,346","9703 Elm St, Los Angeles, FL 24352",Los Angeles,24352,FL,5 bds,1 ba,3232 sqft,2119 sqft,2019,43,Multi-Family,Z121731,Emily Davis - Century 21,For Sale,https://www.zillow.com/homedetails/14001693_zpid/
 "$162,697","7322 Oak Ave, Sacramento, IL 32785",Sacramento,32785,IL,6 bds,3 ba,1624 sqft,1726 sqft,1972,18,Townhouse,Z238874,Emily Davis - Century 21,For Sale,https://www.zillow.com/homedetails/46928623_zpid/
-"$233,832","2986 Main St, Los Angeles, IL 39301",Los Angeles,39301,IL,3 bds,4 ba,2722 sqft,8216 sqft,1998,14,Condo,Z175452,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/39485675_zpid/
+"$233,832","2986 Main St, Los Angeles, IL 39301",Los Angeles,39301,IL,3 bds,4 ba,-2722 sqft,8216 sqft,1998,14,Condo,Z175452,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/39485675_zpid/
 "$946,472","4835 Maple Dr, Fresno, CA 28333",Fresno,28333,CA,2 bds,3 ba,1009 sqft,8969 sqft,2022,58,Condo,Z266179,Alex Johnson - Compass,Sold,https://www.zillow.com/homedetails/92798365_zpid/
 "$339,864","3637 Pine Rd, Fresno, FL 63885",Fresno,63885,FL,3 bds,1 ba,3584 sqft,1287 sqft,1968,109,Townhouse,Z187704,Alex Johnson - Compass,Sold,https://www.zillow.com/homedetails/90340529_zpid/
 "$996,664","3546 Oak Ave, San Diego, CA 79681",San Diego,79681,CA,5 bds,3 ba,939 sqft,9095 sqft,1982,66,Single Family,Z196514,Jane Smith - Keller Williams,For Sale,https://www.zillow.com/homedetails/93999179_zpid/
@@ -532,6 +532,7 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$446,258","8164 Elm St, Los Angeles, NY 58433",Los Angeles,58433,NY,5 bds,1 ba,1034 sqft,4346 sqft,1973,43,Single Family,Z722513,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/91259855_zpid/
 "$183,860","3909 Oak Ave, Fresno, FL 14495",Fresno,14495,FL,3 bds,1 ba,2616 sqft,1461 sqft,1952,27,Multi-Family,Z767523,Mike Lee - Coldwell Banker,For Sale,https://www.zillow.com/homedetails/43289155_zpid/
 "$395,747","8346 Oak Ave, San Diego, NY 61026",San Diego,61026,NY,4 bds,3 ba,3454 sqft,7379 sqft,1996,13,Condo,Z292472,Jane Smith - Keller Williams,Pending,https://www.zillow.com/homedetails/48955850_zpid/
+"$395,747","8346 Oak Ave, San Diego, NY 61026",San Diego,61026,NY,4 bds,3 ba,3454 sqft,7379 sqft,1996,13,Condo,Z292472,Jane Smith - Keller Williams,Pending,https://www.zillow.com/homedetails/48955850_zpid/
 "$757,183","2815 Pine Rd, San Diego, TX 43557",San Diego,43557,TX,6 bds,2 ba,2081 sqft,4775 sqft,2017,74,Townhouse,Z581059,Jane Smith - Keller Williams,Pending,https://www.zillow.com/homedetails/53560182_zpid/
 "$1,131,618","2040 Oak Ave, Fresno, TX 77679",Fresno,77679,TX,3 bds,4 ba,2415 sqft,6096 sqft,2011,106,Condo,Z835217,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/66462743_zpid/
 "$208,579","8217 Oak Ave, Fresno, NY 31166",Fresno,31166,NY,1 bds,2 ba,1832 sqft,7081 sqft,1952,106,Condo,Z472380,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/80247216_zpid/
@@ -729,7 +730,7 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$543,847","9888 Pine Rd, Los Angeles, IL 24009",Los Angeles,24009,IL,5 bds,2 ba,3813 sqft,4624 sqft,1962,114,Townhouse,Z334106,Mike Lee - Coldwell Banker,Pending,https://www.zillow.com/homedetails/78390495_zpid/
 "$308,811","4421 Pine Rd, Los Angeles, CA 88307",Los Angeles,88307,CA,3 bds,4 ba,3689 sqft,9518 sqft,2002,33,Multi-Family,Z889155,Alex Johnson - Compass,Sold,https://www.zillow.com/homedetails/51796419_zpid/
 "$915,237","2959 Elm St, Sacramento, CA 35214",Sacramento,35214,CA,2 bds,4 ba,2469 sqft,2860 sqft,2007,7,Single Family,Z284091,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/75168569_zpid/
-"$1,427,605","8257 Pine Rd, Sacramento, IL 11286",Sacramento,11286,IL,3 bds,3 ba,1655 sqft,1185 sqft,1986,12,Single Family,Z453308,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/58881907_zpid/
+"$1,427,605","8257 Pine Rd, Sacramento, IL 11286",Sacramento,11286,IL,3 bds,3 ba,-1655 sqft,1185 sqft,1986,12,Single Family,Z453308,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/58881907_zpid/
 "$1,213,359","4073 Oak Ave, Fresno, IL 73207",Fresno,73207,IL,2 bds,4 ba,2936 sqft,6369 sqft,1987,47,Apartment,Z178139,Jane Smith - Keller Williams,Pending,https://www.zillow.com/homedetails/36451412_zpid/
 "$1,314,753","9334 Main St, Los Angeles, CA 46396",Los Angeles,46396,CA,5 bds,1 ba,3060 sqft,1630 sqft,1992,98,Single Family,Z735393,Emily Davis - Century 21,Pending,https://www.zillow.com/homedetails/26371064_zpid/
 "$909,232","3849 Oak Ave, Fresno, TX 93235",Fresno,93235,TX,2 bds,4 ba,1044 sqft,8331 sqft,1954,58,Apartment,Z976085,Alex Johnson - Compass,For Sale,https://www.zillow.com/homedetails/66590241_zpid/
@@ -737,7 +738,7 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$1,229,367","4427 Pine Rd, Sacramento, TX 62655",Sacramento,62655,TX,5 bds,1 ba,1256 sqft,9446 sqft,1963,80,Single Family,Z787292,Emily Davis - Century 21,Sold,https://www.zillow.com/homedetails/75624143_zpid/
 "$651,790","8946 Maple Dr, San Francisco, CA 15264",San Francisco,15264,CA,2 bds,2 ba,881 sqft,7350 sqft,2022,18,Single Family,Z839741,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/81692680_zpid/
 "$1,359,843","5868 Maple Dr, San Francisco, TX 41053",San Francisco,41053,TX,1 bds,4 ba,2630 sqft,2470 sqft,1960,30,Single Family,Z259281,Mike Lee - Coldwell Banker,Pending,https://www.zillow.com/homedetails/23327873_zpid/
-"$564,035","7124 Oak Ave, San Diego, TX 54870",San Diego,54870,TX,2 bds,4 ba,1712 sqft,8311 sqft,1965,19,Condo,Z190259,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/33308346_zpid/
+"$564,035","7124 Oak Ave, San Diego, TX 54870",San Diego,54870,TX,2 bds,4 ba,-1712 sqft,8311 sqft,1965,19,Condo,Z190259,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/33308346_zpid/
 "$1,181,346","9198 Oak Ave, San Diego, IL 24302",San Diego,24302,IL,3 bds,3 ba,3247 sqft,6455 sqft,1957,47,Townhouse,Z761808,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/30398323_zpid/
 "$698,712","3679 Pine Rd, Los Angeles, CA 28809",Los Angeles,28809,CA,2 bds,3 ba,1880 sqft,2575 sqft,2017,106,Townhouse,Z866228,Jane Smith - Keller Williams,Sold,https://www.zillow.com/homedetails/88659564_zpid/
 "$1,331,935","6968 Main St, Los Angeles, NY 73989",Los Angeles,73989,NY,2 bds,2 ba,2011 sqft,4759 sqft,1998,115,Single Family,Z710217,Emily Davis - Century 21,Pending,https://www.zillow.com/homedetails/99262986_zpid/
@@ -758,13 +759,13 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$1,416,409","207 Elm St, San Francisco, FL 27396",San Francisco,27396,FL,2 bds,3 ba,3600 sqft,8054 sqft,1983,5,Townhouse,Z653170,Jane Smith - Keller Williams,For Sale,https://www.zillow.com/homedetails/11330918_zpid/
 "$229,675","889 Main St, San Diego, FL 48584",San Diego,48584,FL,1 bds,3 ba,798 sqft,2972 sqft,1967,76,Condo,Z529280,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/30278908_zpid/
 "$414,018","4458 Elm St, Sacramento, CA 77410",Sacramento,77410,CA,1 bds,3 ba,2292 sqft,5579 sqft,2001,103,Apartment,Z585676,John Doe - RE/MAX,Sold,https://www.zillow.com/homedetails/10310234_zpid/
-"$434,016","4418 Maple Dr, San Diego, CA 25867",San Diego,25867,CA,1 bds,3 ba,3157 sqft,8457 sqft,2010,4,Condo,Z784042,John Doe - RE/MAX,For Sale,https://www.zillow.com/homedetails/42170689_zpid/
+"$-434,016","4418 Maple Dr, San Diego, CA 25867",San Diego,25867,CA,1 bds,3 ba,3157 sqft,8457 sqft,2010,4,Condo,Z784042,John Doe - RE/MAX,For Sale,https://www.zillow.com/homedetails/42170689_zpid/
 "$411,851","692 Elm St, Los Angeles, IL 75253",Los Angeles,75253,IL,3 bds,1 ba,863 sqft,3598 sqft,2015,83,Multi-Family,Z117542,Emily Davis - Century 21,For Sale,https://www.zillow.com/homedetails/52577531_zpid/
 "$1,062,025","7065 Oak Ave, Los Angeles, CA 83724",Los Angeles,83724,CA,1 bds,2 ba,1333 sqft,3640 sqft,1998,105,Condo,Z353167,Emily Davis - Century 21,Pending,https://www.zillow.com/homedetails/28092111_zpid/
-"$717,498","7516 Elm St, San Francisco, TX 11432",San Francisco,11432,TX,1 bds,2 ba,3379 sqft,1670 sqft,2013,70,Condo,Z514683,Emily Davis - Century 21,For Sale,https://www.zillow.com/homedetails/46539272_zpid/
+"$717,498","7516 Elm St, San Francisco, TX 11432",San Francisco,11432,TX,1 bds,2 ba,-3379 sqft,1670 sqft,2013,70,Condo,Z514683,Emily Davis - Century 21,For Sale,https://www.zillow.com/homedetails/46539272_zpid/
 "$1,112,100","2621 Elm St, San Diego, FL 80722",San Diego,80722,FL,2 bds,3 ba,1378 sqft,8884 sqft,2022,92,Multi-Family,Z830700,Emily Davis - Century 21,Sold,https://www.zillow.com/homedetails/45997466_zpid/
 "$890,769","2282 Maple Dr, San Francisco, IL 71524",San Francisco,71524,IL,2 bds,1 ba,2731 sqft,4407 sqft,2023,2,Multi-Family,Z134502,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/70934057_zpid/
-"$617,617","3965 Maple Dr, San Diego, IL 98236",San Diego,98236,IL,2 bds,2 ba,1184 sqft,3972 sqft,2010,88,Single Family,Z782736,Jane Smith - Keller Williams,Sold,https://www.zillow.com/homedetails/40486594_zpid/
+"$617,617","3965 Maple Dr, San Diego, IL 98236",San Diego,98236,IL,0 bds,2 ba,1184 sqft,3972 sqft,2010,88,Single Family,Z782736,Jane Smith - Keller Williams,Sold,https://www.zillow.com/homedetails/40486594_zpid/
 "$475,989","4607 Elm St, Los Angeles, TX 89919",Los Angeles,89919,TX,2 bds,2 ba,3102 sqft,6488 sqft,2002,120,Apartment,Z834701,Mike Lee - Coldwell Banker,Pending,https://www.zillow.com/homedetails/10343248_zpid/
 "$482,156","1763 Main St, San Diego, NY 65564",San Diego,65564,NY,1 bds,4 ba,3948 sqft,4253 sqft,1995,55,Townhouse,Z375599,Emily Davis - Century 21,Pending,https://www.zillow.com/homedetails/84102603_zpid/
 "$455,797","6084 Main St, San Diego, IL 46273",San Diego,46273,IL,6 bds,1 ba,786 sqft,5942 sqft,2002,103,Condo,Z544349,Emily Davis - Century 21,For Sale,https://www.zillow.com/homedetails/50243698_zpid/
@@ -814,6 +815,9 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$351,462","4040 Oak Ave, Sacramento, TX 78963",Sacramento,78963,TX,5 bds,3 ba,2271 sqft,6190 sqft,2021,36,Apartment,Z241698,Mike Lee - Coldwell Banker,Pending,https://www.zillow.com/homedetails/19182018_zpid/
 "$210,113","5428 Main St, Sacramento, IL 99538",Sacramento,99538,IL,4 bds,4 ba,3866 sqft,1796 sqft,1973,10,Townhouse,Z637417,John Doe - RE/MAX,For Sale,https://www.zillow.com/homedetails/80455661_zpid/
 "$1,255,047","4453 Main St, San Francisco, NY 65918",San Francisco,65918,NY,6 bds,3 ba,1894 sqft,9879 sqft,1961,68,Single Family,Z728420,John Doe - RE/MAX,For Sale,https://www.zillow.com/homedetails/22612722_zpid/
+"$892,349","9075 Main St, San Francisco, CA 96678",San Francisco,96678,CA,3 bds,1 ba,1934 sqft,7011 sqft,1970,118,Multi-Family,Z689651,Jane Smith - Keller Williams,For Sale,https://www.zillow.com/homedetails/86091567_zpid/
+"$892,349","9075 Main St, San Francisco, CA 96678",San Francisco,96678,CA,3 bds,1 ba,1934 sqft,7011 sqft,1970,118,Multi-Family,Z689651,Jane Smith - Keller Williams,For Sale,https://www.zillow.com/homedetails/86091567_zpid/
+"$892,349","9075 Main St, San Francisco, CA 96678",San Francisco,96678,CA,3 bds,1 ba,1934 sqft,7011 sqft,1970,118,Multi-Family,Z689651,Jane Smith - Keller Williams,For Sale,https://www.zillow.com/homedetails/86091567_zpid/
 "$699,231","1152 Oak Ave, San Diego, IL 20679",San Diego,20679,IL,3 bds,2 ba,3009 sqft,2641 sqft,1984,72,Multi-Family,Z511427,Mike Lee - Coldwell Banker,Pending,https://www.zillow.com/homedetails/89904982_zpid/
 "$772,910","2026 Pine Rd, San Francisco, TX 14339",San Francisco,14339,TX,5 bds,3 ba,1393 sqft,4054 sqft,1957,81,Townhouse,Z954129,Mike Lee - Coldwell Banker,Pending,https://www.zillow.com/homedetails/13653386_zpid/
 "$417,718","929 Oak Ave, Fresno, CA 56423",Fresno,56423,CA,5 bds,4 ba,1837 sqft,4892 sqft,1965,110,Townhouse,Z800170,Jane Smith - Keller Williams,Pending,https://www.zillow.com/homedetails/29448025_zpid/
@@ -928,10 +932,10 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$592,454","2677 Pine Rd, Los Angeles, IL 57711",Los Angeles,57711,IL,4 bds,3 ba,2478 sqft,5501 sqft,1980,16,Single Family,Z522522,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/59067624_zpid/
 "$905,860","619 Pine Rd, Sacramento, CA 16674",Sacramento,16674,CA,3 bds,4 ba,748 sqft,6224 sqft,2017,16,Single Family,Z370201,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/51367016_zpid/
 "$601,508","5963 Main St, Fresno, FL 87430",Fresno,87430,FL,1 bds,3 ba,2993 sqft,7553 sqft,2004,113,Condo,Z998311,Alex Johnson - Compass,For Sale,https://www.zillow.com/homedetails/31734521_zpid/
-"$890,786","9800 Elm St, San Francisco, FL 23506",San Francisco,23506,FL,3 bds,2 ba,2457 sqft,5569 sqft,2008,30,Multi-Family,Z669789,Mike Lee - Coldwell Banker,For Sale,https://www.zillow.com/homedetails/37058810_zpid/
-"$437,511","7908 Maple Dr, San Diego, TX 18919",San Diego,18919,TX,3 bds,3 ba,3156 sqft,9554 sqft,1963,9,Townhouse,Z505643,Mike Lee - Coldwell Banker,For Sale,https://www.zillow.com/homedetails/97267548_zpid/
+"$-190,786","9800 Elm St, San Francisco, FL 23506",San Francisco,23506,FL,3 bds,2 ba,2457 sqft,5569 sqft,2008,30,Multi-Family,Z669789,Mike Lee - Coldwell Banker,For Sale,https://www.zillow.com/homedetails/37058810_zpid/
+"$437,511","7908 Maple Dr, San Diego, TX 18919",San Diego,18919,TX,0 bds,3 ba,3156 sqft,9554 sqft,1963,9,Townhouse,Z505643,Mike Lee - Coldwell Banker,For Sale,https://www.zillow.com/homedetails/97267548_zpid/
 "$1,436,174","7331 Oak Ave, Fresno, CA 54345",Fresno,54345,CA,3 bds,3 ba,3599 sqft,4888 sqft,1977,4,Single Family,Z696637,Mike Lee - Coldwell Banker,For Sale,https://www.zillow.com/homedetails/38152613_zpid/
-"$1,003,604","6705 Elm St, San Francisco, CA 29378",San Francisco,29378,CA,2 bds,1 ba,3633 sqft,4691 sqft,1953,108,Single Family,Z652115,John Doe - RE/MAX,For Sale,https://www.zillow.com/homedetails/58491557_zpid/
+"$1,003,604","6705 Elm St, San Francisco, CA 29378",San Francisco,29378,CA,2 bds,1 ba,-3633 sqft,4691 sqft,1953,108,Single Family,Z652115,John Doe - RE/MAX,For Sale,https://www.zillow.com/homedetails/58491557_zpid/
 "$764,241","7273 Main St, San Francisco, CA 63040",San Francisco,63040,CA,2 bds,2 ba,2153 sqft,2782 sqft,2015,53,Condo,Z866470,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/66273848_zpid/
 "$121,708","5986 Main St, Fresno, NY 76056",Fresno,76056,NY,3 bds,3 ba,3978 sqft,2483 sqft,1978,112,Multi-Family,Z778079,Mike Lee - Coldwell Banker,For Sale,https://www.zillow.com/homedetails/88765395_zpid/
 "$491,796","4946 Pine Rd, San Diego, IL 60385",San Diego,60385,IL,4 bds,3 ba,2586 sqft,9732 sqft,1976,102,Apartment,Z781840,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/82785933_zpid/
@@ -960,7 +964,7 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$1,417,766","5433 Pine Rd, San Francisco, TX 91508",San Francisco,91508,TX,5 bds,1 ba,2236 sqft,7873 sqft,1994,5,Single Family,Z448434,John Doe - RE/MAX,Sold,https://www.zillow.com/homedetails/40898407_zpid/
 "$1,460,654","8259 Maple Dr, Los Angeles, CA 86267",Los Angeles,86267,CA,1 bds,2 ba,1320 sqft,8708 sqft,1956,31,Single Family,Z915313,Jane Smith - Keller Williams,For Sale,https://www.zillow.com/homedetails/92112701_zpid/
 "$1,455,417","3893 Pine Rd, San Diego, FL 68218",San Diego,68218,FL,1 bds,4 ba,2720 sqft,1777 sqft,2003,101,Apartment,Z312051,Jane Smith - Keller Williams,Sold,https://www.zillow.com/homedetails/96152925_zpid/
-"$1,253,458","6925 Oak Ave, San Diego, TX 89720",San Diego,89720,TX,2 bds,3 ba,2660 sqft,3105 sqft,2002,48,Townhouse,Z665850,Jane Smith - Keller Williams,Pending,https://www.zillow.com/homedetails/16548649_zpid/
+"$5,001,458","6925 Oak Ave, San Diego, TX 89720",San Diego,89720,TX,2 bds,3 ba,2660 sqft,3105 sqft,2002,48,Townhouse,Z665850,Jane Smith - Keller Williams,Pending,https://www.zillow.com/homedetails/16548649_zpid/
 "$484,967","6987 Maple Dr, Sacramento, FL 29123",Sacramento,29123,FL,6 bds,2 ba,1087 sqft,6914 sqft,1953,40,Single Family,Z419502,Jane Smith - Keller Williams,For Sale,https://www.zillow.com/homedetails/16337710_zpid/
 "$1,257,749","1895 Main St, Fresno, IL 64765",Fresno,64765,IL,6 bds,2 ba,2824 sqft,5114 sqft,1988,42,Townhouse,Z837372,Alex Johnson - Compass,For Sale,https://www.zillow.com/homedetails/24890645_zpid/
 "$387,069","1112 Elm St, Fresno, FL 97242",Fresno,97242,FL,4 bds,1 ba,3390 sqft,2425 sqft,2008,4,Single Family,Z911853,Emily Davis - Century 21,For Sale,https://www.zillow.com/homedetails/22085644_zpid/
@@ -1184,8 +1188,8 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$835,582","2614 Main St, San Francisco, FL 25426",San Francisco,25426,FL,4 bds,2 ba,,3104 sqft,2015,106,Condo,Z580942,Emily Davis - Century 21,For Sale,https://www.zillow.com/homedetails/51561596_zpid/
 "$994,818","4626 Maple Dr, Los Angeles, IL 16334",Los Angeles,16334,IL,3 bds,2 ba,,4183 sqft,1973,40,Apartment,Z554312,Alex Johnson - Compass,For Sale,https://www.zillow.com/homedetails/86576849_zpid/
 "$848,850","7343 Main St, Fresno, CA 19834",Fresno,19834,CA,1 bds,2 ba,3798 sqft,5049 sqft,1966,73,Apartment,Z239739,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/32286274_zpid/
-"$741,445","4352 Oak Ave, San Francisco, IL 71889",San Francisco,71889,IL,3 bds,3 ba,2165 sqft,3160 sqft,2013,112,Single Family,Z244718,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/70739560_zpid/
-"$1,208,371","3201 Main St, Fresno, IL 60086",Fresno,60086,IL,3 bds,1 ba,875 sqft,8738 sqft,1996,46,Townhouse,Z632446,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/77027363_zpid/
+"$-141,445","4352 Oak Ave, San Francisco, IL 71889",San Francisco,71889,IL,3 bds,3 ba,2165 sqft,3160 sqft,2013,112,Single Family,Z244718,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/70739560_zpid/
+"$1,208,371","3201 Main St, Fresno, IL 60086",Fresno,60086,IL,0 bds,1 ba,875 sqft,8738 sqft,1996,46,Townhouse,Z632446,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/77027363_zpid/
 "$1,391,650","4872 Oak Ave, San Francisco, IL 75736",San Francisco,75736,IL,1 bds,1 ba,897 sqft,9021 sqft,2010,28,Apartment,Z948701,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/84822072_zpid/
 "$1,394,784","1946 Elm St, Fresno, FL 85937",Fresno,85937,FL,4 bds,3 ba,724 sqft,1505 sqft,1977,94,Single Family,Z260586,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/93798058_zpid/
 "$812,674","6383 Elm St, Sacramento, IL 85924",Sacramento,85924,IL,3 bds,4 ba,3650 sqft,1018 sqft,1975,93,Multi-Family,Z224294,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/22179058_zpid/
@@ -1287,7 +1291,7 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$878,723","4157 Elm St, Los Angeles, FL 65847",Los Angeles,65847,FL,3 bds,3 ba,864 sqft,5419 sqft,1982,35,Condo,Z568014,Jane Smith - Keller Williams,For Sale,https://www.zillow.com/homedetails/94090886_zpid/
 "$679,584","4848 Maple Dr, Los Angeles, IL 67572",Los Angeles,67572,IL,6 bds,2 ba,2582 sqft,2240 sqft,1956,92,Condo,Z260793,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/67917966_zpid/
 "$1,117,712","6311 Oak Ave, Sacramento, IL 19739",Sacramento,19739,IL,2 bds,4 ba,2851 sqft,5486 sqft,1996,4,Apartment,Z549861,Jane Smith - Keller Williams,Pending,https://www.zillow.com/homedetails/45457782_zpid/
-"$1,358,422","7180 Oak Ave, Los Angeles, IL 15876",Los Angeles,15876,IL,2 bds,2 ba,2713 sqft,7623 sqft,2011,109,Townhouse,Z935344,John Doe - RE/MAX,For Sale,https://www.zillow.com/homedetails/65463234_zpid/
+"$5,358,422","7180 Oak Ave, Los Angeles, IL 15876",Los Angeles,15876,IL,2 bds,2 ba,2713 sqft,7623 sqft,2011,109,Townhouse,Z935344,John Doe - RE/MAX,For Sale,https://www.zillow.com/homedetails/65463234_zpid/
 "$262,520","5080 Pine Rd, San Francisco, CA 65506",San Francisco,65506,CA,2 bds,4 ba,2004 sqft,6301 sqft,2006,42,Apartment,Z114025,Emily Davis - Century 21,For Sale,https://www.zillow.com/homedetails/91945987_zpid/
 "$705,333","1792 Oak Ave, Fresno, FL 17784",Fresno,17784,FL,1 bds,3 ba,1868 sqft,7761 sqft,2016,120,Condo,Z907094,John Doe - RE/MAX,Sold,https://www.zillow.com/homedetails/10146011_zpid/
 "$1,280,348","5592 Pine Rd, San Diego, CA 49271",San Diego,49271,CA,3 bds,1 ba,1854 sqft,4742 sqft,1958,12,Apartment,Z647648,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/61590815_zpid/
@@ -1414,7 +1418,7 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$654,485","8383 Main St, Los Angeles, TX 67605",Los Angeles,67605,TX,3 bds,3 ba,2771 sqft,9800 sqft,2002,63,Multi-Family,Z588524,Jane Smith - Keller Williams,Sold,https://www.zillow.com/homedetails/91538898_zpid/
 "$1,102,154","5869 Oak Ave, San Francisco, CA 46426",San Francisco,46426,CA,6 bds,3 ba,3837 sqft,2415 sqft,2002,65,Townhouse,Z841888,Alex Johnson - Compass,Sold,https://www.zillow.com/homedetails/98594137_zpid/
 "$870,466","534 Main St, Los Angeles, CA 10094",Los Angeles,10094,CA,1 bds,3 ba,3713 sqft,6362 sqft,2010,32,Townhouse,Z768018,Emily Davis - Century 21,Pending,https://www.zillow.com/homedetails/82969536_zpid/
-"$273,995","6970 Pine Rd, San Francisco, NY 56441",San Francisco,56441,NY,2 bds,1 ba,1488 sqft,4956 sqft,1971,37,Multi-Family,Z145971,Emily Davis - Century 21,For Sale,https://www.zillow.com/homedetails/97279385_zpid/
+"$273,995","6970 Pine Rd, San Francisco, NY 56441",San Francisco,56441,NY,2 bds,1 ba,-1488 sqft,4956 sqft,1971,37,Multi-Family,Z145971,Emily Davis - Century 21,For Sale,https://www.zillow.com/homedetails/97279385_zpid/
 "$967,316","1500 Elm St, Fresno, FL 80142",Fresno,80142,FL,2 bds,2 ba,2802 sqft,8955 sqft,2005,63,Condo,Z239217,Alex Johnson - Compass,For Sale,https://www.zillow.com/homedetails/84642010_zpid/
 "$392,020","2501 Main St, San Diego, NY 85892",San Diego,85892,NY,5 bds,1 ba,3496 sqft,7087 sqft,2017,68,Townhouse,Z244493,Emily Davis - Century 21,Pending,https://www.zillow.com/homedetails/90321289_zpid/
 "$191,377","336 Elm St, Fresno, NY 91466",Fresno,91466,NY,3 bds,4 ba,2946 sqft,1428 sqft,1960,35,Multi-Family,Z626768,Emily Davis - Century 21,Pending,https://www.zillow.com/homedetails/13280720_zpid/
@@ -1446,7 +1450,7 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$1,319,712","8546 Elm St, San Francisco, FL 31676",San Francisco,31676,FL,4 bds,4 ba,3909 sqft,3685 sqft,1979,3,Condo,Z381554,Emily Davis - Century 21,Pending,https://www.zillow.com/homedetails/32762434_zpid/
 "$1,288,890","9880 Maple Dr, Los Angeles, TX 72493",Los Angeles,72493,TX,6 bds,2 ba,1395 sqft,8559 sqft,1956,74,Townhouse,Z384635,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/47648669_zpid/
 "$956,034","9238 Elm St, San Diego, CA 77866",San Diego,77866,CA,1 bds,4 ba,674 sqft,6448 sqft,1993,87,Multi-Family,Z408626,Alex Johnson - Compass,For Sale,https://www.zillow.com/homedetails/13190743_zpid/
-"$520,950","9711 Elm St, San Francisco, CA 30651",San Francisco,30651,CA,1 bds,2 ba,2231 sqft,3274 sqft,1973,36,Multi-Family,Z584485,Jane Smith - Keller Williams,Sold,https://www.zillow.com/homedetails/57197003_zpid/
+"$520,950","9711 Elm St, San Francisco, CA 30651",San Francisco,30651,CA,1 bds,2 ba,-2231 sqft,3274 sqft,1973,36,Multi-Family,Z584485,Jane Smith - Keller Williams,Sold,https://www.zillow.com/homedetails/57197003_zpid/
 "$142,594","7612 Elm St, San Diego, CA 48533",San Diego,48533,CA,2 bds,2 ba,1449 sqft,4605 sqft,1995,80,Condo,Z660980,Alex Johnson - Compass,For Sale,https://www.zillow.com/homedetails/40571130_zpid/
 "$686,609","8698 Pine Rd, Fresno, IL 47743",Fresno,47743,IL,1 bds,2 ba,1656 sqft,4660 sqft,1954,58,Townhouse,Z821315,Emily Davis - Century 21,Pending,https://www.zillow.com/homedetails/80040728_zpid/
 "$1,065,686","6550 Elm St, Fresno, CA 92161",Fresno,92161,CA,4 bds,2 ba,3292 sqft,7374 sqft,1961,74,Condo,Z152070,Jane Smith - Keller Williams,Sold,https://www.zillow.com/homedetails/31042613_zpid/
@@ -1747,6 +1751,8 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$1,210,031","7338 Main St, Fresno, NY 58935",Fresno,58935,NY,2 bds,4 ba,919 sqft,5625 sqft,1994,54,Townhouse,Z961699,Emily Davis - Century 21,For Sale,https://www.zillow.com/homedetails/56431462_zpid/
 "$1,063,326","7186 Main St, Sacramento, CA 62633",Sacramento,62633,CA,3 bds,1 ba,618 sqft,5582 sqft,1987,99,Condo,Z676708,Jane Smith - Keller Williams,Sold,https://www.zillow.com/homedetails/13082217_zpid/
 "$892,349","9075 Main St, San Francisco, CA 96678",San Francisco,96678,CA,3 bds,1 ba,1934 sqft,7011 sqft,1970,118,Multi-Family,Z689651,Jane Smith - Keller Williams,For Sale,https://www.zillow.com/homedetails/86091567_zpid/
+"$892,349","9075 Main St, San Francisco, CA 96678",San Francisco,96678,CA,3 bds,1 ba,1934 sqft,7011 sqft,1970,118,Multi-Family,Z689651,Jane Smith - Keller Williams,For Sale,https://www.zillow.com/homedetails/86091567_zpid/
+"$892,349","9075 Main St, San Francisco, CA 96678",San Francisco,96678,CA,3 bds,1 ba,1934 sqft,7011 sqft,1970,118,Multi-Family,Z689651,Jane Smith - Keller Williams,For Sale,https://www.zillow.com/homedetails/86091567_zpid/
 "$966,864","7516 Main St, San Francisco, IL 29567",San Francisco,29567,IL,2 bds,3 ba,1546 sqft,9987 sqft,2006,5,Townhouse,Z598961,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/59264937_zpid/
 "$1,225,786","7863 Maple Dr, Fresno, FL 71486",Fresno,71486,FL,1 bds,4 ba,751 sqft,7400 sqft,2021,1,Apartment,Z616231,Jane Smith - Keller Williams,Sold,https://www.zillow.com/homedetails/79238164_zpid/
 "$510,491","2287 Maple Dr, Sacramento, CA 40146",Sacramento,40146,CA,4 bds,4 ba,2115 sqft,5527 sqft,1980,7,Condo,Z609683,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/67396397_zpid/
@@ -1755,7 +1761,7 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$1,423,184","5777 Oak Ave, San Francisco, FL 83965",San Francisco,83965,FL,1 bds,3 ba,3371 sqft,2475 sqft,1960,118,Single Family,Z479571,Alex Johnson - Compass,Sold,https://www.zillow.com/homedetails/60618921_zpid/
 "$404,252","789 Pine Rd, Los Angeles, TX 90909",Los Angeles,90909,TX,5 bds,2 ba,1920 sqft,3215 sqft,1961,63,Single Family,Z554680,Alex Johnson - Compass,For Sale,https://www.zillow.com/homedetails/87348599_zpid/
 "$1,019,191","6494 Elm St, Fresno, CA 39464",Fresno,39464,CA,5 bds,2 ba,1139 sqft,5942 sqft,1982,11,Condo,Z193365,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/87576536_zpid/
-"$1,293,478","6066 Maple Dr, Fresno, NY 36565",Fresno,36565,NY,2 bds,1 ba,2299 sqft,6752 sqft,2009,66,Single Family,Z331755,Emily Davis - Century 21,Pending,https://www.zillow.com/homedetails/78508175_zpid/
+"$1,293,478","6066 Maple Dr, Fresno, NY 36565",Fresno,36565,NY,2 bds,1 ba,0 sqft,6752 sqft,2009,66,Single Family,Z331755,Emily Davis - Century 21,Pending,https://www.zillow.com/homedetails/78508175_zpid/
 "$484,981","3918 Pine Rd, Fresno, IL 22863",Fresno,22863,IL,6 bds,2 ba,3122 sqft,3886 sqft,2002,108,Condo,Z974030,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/67979156_zpid/
 "$203,604","8715 Elm St, Fresno, FL 14986",Fresno,14986,FL,1 bds,3 ba,1990 sqft,7829 sqft,1992,47,Apartment,Z165458,Jane Smith - Keller Williams,For Sale,https://www.zillow.com/homedetails/61487431_zpid/
 "$634,518","2640 Elm St, San Diego, CA 18795",San Diego,18795,CA,2 bds,1 ba,621 sqft,5600 sqft,2022,6,Multi-Family,Z669323,Jane Smith - Keller Williams,For Sale,https://www.zillow.com/homedetails/62556095_zpid/
@@ -1799,10 +1805,10 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$977,721","1761 Pine Rd, Fresno, FL 47215",Fresno,47215,FL,4 bds,4 ba,2991 sqft,8023 sqft,1984,31,Apartment,Z408209,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/75469908_zpid/
 "$1,109,257","5233 Oak Ave, Sacramento, IL 81002",Sacramento,81002,IL,1 bds,2 ba,3227 sqft,1628 sqft,1973,67,Townhouse,Z623609,Emily Davis - Century 21,For Sale,https://www.zillow.com/homedetails/89968765_zpid/
 "$423,729","2996 Maple Dr, San Francisco, IL 60302",San Francisco,60302,IL,2 bds,1 ba,802 sqft,5047 sqft,1988,48,Condo,Z326970,Alex Johnson - Compass,Sold,https://www.zillow.com/homedetails/93923957_zpid/
-"$424,673","843 Oak Ave, Sacramento, CA 27614",Sacramento,27614,CA,4 bds,2 ba,2464 sqft,5074 sqft,1956,20,Apartment,Z526584,John Doe - RE/MAX,Sold,https://www.zillow.com/homedetails/98053345_zpid/
+"$424,673","843 Oak Ave, Sacramento, CA 27614",Sacramento,27614,CA,0 bds,2 ba,2464 sqft,5074 sqft,1956,20,Apartment,Z526584,John Doe - RE/MAX,Sold,https://www.zillow.com/homedetails/98053345_zpid/
 "$1,192,506","9427 Maple Dr, San Francisco, IL 24515",San Francisco,24515,IL,6 bds,1 ba,2359 sqft,3646 sqft,1987,113,Multi-Family,Z177075,Mike Lee - Coldwell Banker,For Sale,https://www.zillow.com/homedetails/70148099_zpid/
 "$1,099,602","8579 Main St, Sacramento, NY 18166",Sacramento,18166,NY,6 bds,1 ba,1457 sqft,8626 sqft,2014,18,Apartment,Z548205,John Doe - RE/MAX,For Sale,https://www.zillow.com/homedetails/44394371_zpid/
-"$206,508","6097 Pine Rd, Sacramento, IL 73499",Sacramento,73499,IL,5 bds,3 ba,1385 sqft,8648 sqft,2017,96,Apartment,Z366418,Alex Johnson - Compass,Sold,https://www.zillow.com/homedetails/78544457_zpid/
+"$206,508","6097 Pine Rd, Sacramento, IL 73499",Sacramento,73499,IL,5 bds,3 ba,-1385 sqft,8648 sqft,2017,96,Apartment,Z366418,Alex Johnson - Compass,Sold,https://www.zillow.com/homedetails/78544457_zpid/
 "$692,345","959 Elm St, Fresno, CA 20838",Fresno,20838,CA,2 bds,3 ba,1062 sqft,1226 sqft,2022,84,Condo,Z778473,Alex Johnson - Compass,Sold,https://www.zillow.com/homedetails/10705628_zpid/
 "$1,232,947","9929 Oak Ave, San Diego, FL 47585",San Diego,47585,FL,5 bds,4 ba,2484 sqft,7894 sqft,1970,83,Townhouse,Z691043,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/27596453_zpid/
 "$1,430,971","2628 Oak Ave, Fresno, FL 42583",Fresno,42583,FL,5 bds,1 ba,643 sqft,1361 sqft,1992,2,Townhouse,Z105488,Jane Smith - Keller Williams,Sold,https://www.zillow.com/homedetails/70628876_zpid/
@@ -1835,19 +1841,19 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$273,905","8579 Oak Ave, Sacramento, NY 49587",Sacramento,49587,NY,3 bds,4 ba,1394 sqft,5162 sqft,2018,8,Apartment,Z439297,John Doe - RE/MAX,For Sale,https://www.zillow.com/homedetails/89074396_zpid/
 "$330,016","7454 Oak Ave, Sacramento, FL 96526",Sacramento,96526,FL,3 bds,4 ba,2660 sqft,8584 sqft,1990,68,Apartment,Z796658,Emily Davis - Century 21,For Sale,https://www.zillow.com/homedetails/42007885_zpid/
 "$1,020,669","1854 Elm St, San Diego, IL 38046",San Diego,38046,IL,1 bds,2 ba,3057 sqft,2530 sqft,1952,78,Single Family,Z295934,John Doe - RE/MAX,Sold,https://www.zillow.com/homedetails/18168964_zpid/
-"$824,375","7147 Pine Rd, San Diego, IL 60417",San Diego,60417,IL,5 bds,3 ba,2280 sqft,4091 sqft,1979,27,Townhouse,Z660897,Mike Lee - Coldwell Banker,Pending,https://www.zillow.com/homedetails/57095492_zpid/
-"$311,629","1163 Elm St, Sacramento, TX 73855",Sacramento,73855,TX,3 bds,1 ba,1924 sqft,5435 sqft,2021,55,Apartment,Z405944,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/89999385_zpid/
-"$867,206","8867 Main St, Los Angeles, TX 55397",Los Angeles,55397,TX,5 bds,2 ba,2862 sqft,9384 sqft,1987,62,Condo,Z560838,Jane Smith - Keller Williams,Sold,https://www.zillow.com/homedetails/18572216_zpid/
+"$824,375","7147 Pine Rd, San Diego, IL 60417",San Diego,60417,IL,5 bds,3 ba,0 sqft,4091 sqft,1979,27,Townhouse,Z660897,Mike Lee - Coldwell Banker,Pending,https://www.zillow.com/homedetails/57095492_zpid/
+"$-311,629","1163 Elm St, Sacramento, TX 73855",Sacramento,73855,TX,3 bds,1 ba,1924 sqft,5435 sqft,2021,55,Apartment,Z405944,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/89999385_zpid/
+"$867,206","8867 Main St, Los Angeles, TX 55397",Los Angeles,55397,TX,0 bds,2 ba,2862 sqft,9384 sqft,1987,62,Condo,Z560838,Jane Smith - Keller Williams,Sold,https://www.zillow.com/homedetails/18572216_zpid/
 "$796,329","5649 Pine Rd, San Francisco, TX 86142",San Francisco,86142,TX,3 bds,4 ba,1939 sqft,4173 sqft,1964,84,Single Family,Z281404,Mike Lee - Coldwell Banker,Pending,https://www.zillow.com/homedetails/81890117_zpid/
 "$856,876","6573 Pine Rd, Fresno, NY 41561",Fresno,41561,NY,1 bds,1 ba,3127 sqft,2587 sqft,1962,50,Single Family,Z584332,Emily Davis - Century 21,For Sale,https://www.zillow.com/homedetails/44360094_zpid/
 "$1,420,675","6866 Elm St, Sacramento, FL 85564",Sacramento,85564,FL,3 bds,1 ba,2402 sqft,3542 sqft,1971,33,Single Family,Z279674,Mike Lee - Coldwell Banker,Pending,https://www.zillow.com/homedetails/40682476_zpid/
-"$617,620","5162 Elm St, San Francisco, TX 79196",San Francisco,79196,TX,3 bds,4 ba,2906 sqft,3840 sqft,2021,112,Multi-Family,Z325195,Alex Johnson - Compass,Sold,https://www.zillow.com/homedetails/30218179_zpid/
+"$617,620","5162 Elm St, San Francisco, TX 79196",San Francisco,79196,TX,3 bds,4 ba,-2906 sqft,3840 sqft,2021,112,Multi-Family,Z325195,Alex Johnson - Compass,Sold,https://www.zillow.com/homedetails/30218179_zpid/
 "$414,754","8194 Oak Ave, Fresno, CA 86532",Fresno,86532,CA,5 bds,2 ba,1932 sqft,3415 sqft,1984,110,Single Family,Z249398,Emily Davis - Century 21,Pending,https://www.zillow.com/homedetails/64583874_zpid/
 "$1,470,699","7310 Pine Rd, San Diego, CA 29047",San Diego,29047,CA,2 bds,4 ba,2266 sqft,6534 sqft,2011,95,Multi-Family,Z428626,John Doe - RE/MAX,Sold,https://www.zillow.com/homedetails/30472347_zpid/
 "$1,254,861","7840 Oak Ave, San Francisco, CA 52094",San Francisco,52094,CA,3 bds,2 ba,1929 sqft,5887 sqft,1977,12,Multi-Family,Z488395,John Doe - RE/MAX,Sold,https://www.zillow.com/homedetails/16989640_zpid/
 "$199,191","1308 Elm St, San Francisco, IL 68735",San Francisco,68735,IL,4 bds,2 ba,682 sqft,9103 sqft,1990,85,Townhouse,Z373544,Alex Johnson - Compass,Sold,https://www.zillow.com/homedetails/93953296_zpid/
 "$177,022","6249 Maple Dr, Fresno, CA 98694",Fresno,98694,CA,6 bds,3 ba,1385 sqft,7713 sqft,2005,39,Townhouse,Z651626,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/73715581_zpid/
-"$1,022,640","6323 Main St, Los Angeles, IL 16519",Los Angeles,16519,IL,4 bds,1 ba,3109 sqft,5757 sqft,1985,46,Multi-Family,Z542567,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/46636874_zpid/
+"$1,022,640","6323 Main St, Los Angeles, IL 16519",Los Angeles,16519,IL,4 bds,1 ba,0 sqft,5757 sqft,1985,46,Multi-Family,Z542567,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/46636874_zpid/
 "$271,192","1832 Pine Rd, San Francisco, FL 91208",San Francisco,91208,FL,2 bds,4 ba,3869 sqft,8315 sqft,2012,67,Single Family,Z678639,John Doe - RE/MAX,For Sale,https://www.zillow.com/homedetails/32303566_zpid/
 "$338,004","9653 Oak Ave, Fresno, FL 58030",Fresno,58030,FL,4 bds,4 ba,3871 sqft,7018 sqft,1981,81,Multi-Family,Z597703,Jane Smith - Keller Williams,Pending,https://www.zillow.com/homedetails/78043808_zpid/
 "$732,123","5499 Maple Dr, San Francisco, FL 13564",San Francisco,13564,FL,5 bds,2 ba,1657 sqft,5304 sqft,1998,27,Condo,Z477580,John Doe - RE/MAX,Sold,https://www.zillow.com/homedetails/18439090_zpid/
@@ -2070,7 +2076,7 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$1,305,625","1448 Elm St, San Francisco, NY 71220",San Francisco,71220,NY,2 bds,2 ba,3604 sqft,2479 sqft,1992,9,Apartment,Z749391,Emily Davis - Century 21,Pending,https://www.zillow.com/homedetails/83178786_zpid/
 "$270,245","4190 Main St, Los Angeles, NY 73252",Los Angeles,73252,NY,5 bds,2 ba,3727 sqft,6955 sqft,1951,55,Apartment,Z726908,Alex Johnson - Compass,For Sale,https://www.zillow.com/homedetails/83700245_zpid/
 "$1,445,658","8628 Elm St, Sacramento, IL 57265",Sacramento,57265,IL,3 bds,2 ba,1424 sqft,1967 sqft,1962,63,Apartment,Z316992,Mike Lee - Coldwell Banker,For Sale,https://www.zillow.com/homedetails/19325944_zpid/
-"$341,634","226 Elm St, Los Angeles, CA 54611",Los Angeles,54611,CA,3 bds,2 ba,3472 sqft,1393 sqft,1984,47,Single Family,Z898196,Jane Smith - Keller Williams,For Sale,https://www.zillow.com/homedetails/87690555_zpid/
+"$5,341,634","226 Elm St, Los Angeles, CA 54611",Los Angeles,54611,CA,3 bds,2 ba,3472 sqft,1393 sqft,1984,47,Single Family,Z898196,Jane Smith - Keller Williams,For Sale,https://www.zillow.com/homedetails/87690555_zpid/
 "$1,321,533","6293 Maple Dr, San Francisco, FL 62332",San Francisco,62332,FL,2 bds,3 ba,2908 sqft,4547 sqft,2022,43,Apartment,Z729296,John Doe - RE/MAX,For Sale,https://www.zillow.com/homedetails/59493822_zpid/
 "$377,258","1978 Elm St, San Francisco, CA 42736",San Francisco,42736,CA,6 bds,2 ba,3769 sqft,7471 sqft,1965,11,Townhouse,Z193195,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/80778640_zpid/
 "$581,754","5218 Oak Ave, Sacramento, FL 37877",Sacramento,37877,FL,3 bds,2 ba,2117 sqft,1249 sqft,1953,112,Condo,Z815620,John Doe - RE/MAX,For Sale,https://www.zillow.com/homedetails/31182229_zpid/
@@ -2168,7 +2174,7 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$550,158","6301 Main St, Sacramento, FL 88216",Sacramento,88216,FL,6 bds,2 ba,3444 sqft,2503 sqft,1954,106,Townhouse,Z349151,Emily Davis - Century 21,Sold,https://www.zillow.com/homedetails/12633818_zpid/
 "$1,050,654","509 Maple Dr, San Diego, FL 90147",San Diego,90147,FL,1 bds,3 ba,2429 sqft,4992 sqft,1971,64,Townhouse,Z730807,Emily Davis - Century 21,Pending,https://www.zillow.com/homedetails/51249559_zpid/
 "$512,547","3954 Elm St, Sacramento, FL 91809",Sacramento,91809,FL,4 bds,2 ba,1297 sqft,3698 sqft,1956,113,Townhouse,Z427356,Mike Lee - Coldwell Banker,Pending,https://www.zillow.com/homedetails/65609714_zpid/
-"$729,920","4643 Maple Dr, Los Angeles, FL 20151",Los Angeles,20151,FL,6 bds,3 ba,2181 sqft,4515 sqft,2015,3,Condo,Z480608,Mike Lee - Coldwell Banker,For Sale,https://www.zillow.com/homedetails/21448555_zpid/
+"$-729,920","4643 Maple Dr, Los Angeles, FL 20151",Los Angeles,20151,FL,6 bds,3 ba,2181 sqft,4515 sqft,2015,3,Condo,Z480608,Mike Lee - Coldwell Banker,For Sale,https://www.zillow.com/homedetails/21448555_zpid/
 "$1,423,548","4561 Maple Dr, Fresno, NY 68236",Fresno,68236,NY,4 bds,4 ba,1109 sqft,9449 sqft,2002,10,Townhouse,Z637986,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/88504757_zpid/
 "$888,455","3409 Pine Rd, San Diego, IL 39067",San Diego,39067,IL,6 bds,2 ba,3898 sqft,2000 sqft,1955,16,Multi-Family,Z915062,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/41264840_zpid/
 "$867,045","6599 Elm St, Los Angeles, FL 49782",Los Angeles,49782,FL,1 bds,2 ba,3257 sqft,7096 sqft,1998,39,Single Family,Z934670,Jane Smith - Keller Williams,Sold,https://www.zillow.com/homedetails/66023981_zpid/
@@ -2179,7 +2185,7 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$767,118","5133 Elm St, San Francisco, IL 35549",San Francisco,35549,IL,5 bds,3 ba,885 sqft,8073 sqft,1957,89,Single Family,Z738522,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/38042766_zpid/
 "$1,077,526","1052 Oak Ave, Fresno, FL 85014",Fresno,85014,FL,4 bds,2 ba,3264 sqft,5699 sqft,1990,87,Condo,Z437782,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/28276481_zpid/
 "$1,443,890","2573 Main St, Fresno, TX 46959",Fresno,46959,TX,5 bds,4 ba,1836 sqft,2151 sqft,1988,39,Townhouse,Z668812,Mike Lee - Coldwell Banker,Pending,https://www.zillow.com/homedetails/69905746_zpid/
-"$1,157,354","908 Maple Dr, Fresno, CA 21860",Fresno,21860,CA,3 bds,1 ba,2179 sqft,9052 sqft,1979,100,Single Family,Z129844,Emily Davis - Century 21,Pending,https://www.zillow.com/homedetails/99887319_zpid/
+"$-100,157,354","908 Maple Dr, Fresno, CA 21860",Fresno,21860,CA,3 bds,1 ba,2179 sqft,9052 sqft,1979,100,Single Family,Z129844,Emily Davis - Century 21,Pending,https://www.zillow.com/homedetails/99887319_zpid/
 "$402,339","6194 Pine Rd, San Diego, CA 93478",San Diego,93478,CA,1 bds,4 ba,3585 sqft,6337 sqft,1977,56,Multi-Family,Z984302,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/26606579_zpid/
 "$635,830","1585 Main St, Fresno, CA 63899",Fresno,63899,CA,4 bds,1 ba,1484 sqft,1302 sqft,1950,73,Single Family,Z873025,John Doe - RE/MAX,Sold,https://www.zillow.com/homedetails/37587228_zpid/
 "$561,390","3076 Oak Ave, Sacramento, CA 88464",Sacramento,88464,CA,1 bds,4 ba,3335 sqft,5930 sqft,1991,78,Townhouse,Z750351,Jane Smith - Keller Williams,Pending,https://www.zillow.com/homedetails/24832357_zpid/
@@ -2189,8 +2195,8 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 ,"4539 Oak Ave, Los Angeles, TX 19992",Los Angeles,19992,TX,6 bds,1 ba,3060 sqft,9324 sqft,1990,109,Multi-Family,Z172859,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/13003665_zpid/
 ,"9903 Pine Rd, Los Angeles, FL 40319",Los Angeles,40319,FL,2 bds,1 ba,2271 sqft,9042 sqft,2001,115,Single Family,Z756123,Alex Johnson - Compass,For Sale,https://www.zillow.com/homedetails/78279218_zpid/
 "$992,014","2142 Maple Dr, San Francisco, FL 85572",San Francisco,85572,FL,4 bds,2 ba,1485 sqft,2501 sqft,1994,105,Multi-Family,Z468130,Emily Davis - Century 21,Pending,https://www.zillow.com/homedetails/67481181_zpid/
-"$323,406","3314 Maple Dr, Los Angeles, CA 61427",Los Angeles,61427,CA,6 bds,3 ba,642 sqft,7982 sqft,1974,109,Single Family,Z927857,Emily Davis - Century 21,Sold,https://www.zillow.com/homedetails/22343411_zpid/
-"$902,572","8767 Pine Rd, Fresno, FL 21356",Fresno,21356,FL,5 bds,3 ba,2708 sqft,7698 sqft,1987,102,Condo,Z427007,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/38977609_zpid/
+"$-323,406","3314 Maple Dr, Los Angeles, CA 61427",Los Angeles,61427,CA,6 bds,3 ba,642 sqft,7982 sqft,1974,109,Single Family,Z927857,Emily Davis - Century 21,Sold,https://www.zillow.com/homedetails/22343411_zpid/
+"$902,572","8767 Pine Rd, Fresno, FL 21356",Fresno,21356,FL,-1 bds,3 ba,2708 sqft,7698 sqft,1987,102,Condo,Z427007,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/38977609_zpid/
 "$1,488,630","4543 Pine Rd, Los Angeles, FL 11595",Los Angeles,11595,FL,1 bds,2 ba,2507 sqft,6876 sqft,1960,2,Single Family,Z319609,Jane Smith - Keller Williams,For Sale,https://www.zillow.com/homedetails/12024674_zpid/
 "$1,251,747","6383 Elm St, San Diego, FL 70713",San Diego,70713,FL,4 bds,1 ba,3590 sqft,1269 sqft,2007,108,Single Family,Z113075,John Doe - RE/MAX,For Sale,https://www.zillow.com/homedetails/61892743_zpid/
 "$1,330,718","4090 Main St, San Diego, CA 42092",San Diego,42092,CA,4 bds,1 ba,2280 sqft,7286 sqft,1956,119,Condo,Z682694,Alex Johnson - Compass,Sold,https://www.zillow.com/homedetails/66220310_zpid/
@@ -2263,9 +2269,9 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$665,695","4616 Main St, San Diego, IL 60251",San Diego,60251,IL,6 bds,1 ba,2447 sqft,2798 sqft,2020,66,Single Family,Z749000,John Doe - RE/MAX,Sold,https://www.zillow.com/homedetails/63658547_zpid/
 "$589,177","5183 Pine Rd, Sacramento, TX 45058",Sacramento,45058,TX,4 bds,3 ba,610 sqft,5225 sqft,2019,57,Condo,Z497569,John Doe - RE/MAX,For Sale,https://www.zillow.com/homedetails/84838265_zpid/
 "$212,757","5990 Maple Dr, Fresno, FL 15208",Fresno,15208,FL,5 bds,3 ba,830 sqft,7568 sqft,1983,91,Single Family,Z882888,Jane Smith - Keller Williams,For Sale,https://www.zillow.com/homedetails/44784450_zpid/
-"$886,105","7108 Elm St, San Diego, NY 86716",San Diego,86716,NY,6 bds,2 ba,1773 sqft,6571 sqft,2014,115,Townhouse,Z795850,John Doe - RE/MAX,Sold,https://www.zillow.com/homedetails/82559194_zpid/
+"$-886,105","7108 Elm St, San Diego, NY 86716",San Diego,86716,NY,6 bds,2 ba,1773 sqft,6571 sqft,2014,115,Townhouse,Z795850,John Doe - RE/MAX,Sold,https://www.zillow.com/homedetails/82559194_zpid/
 "$141,534","1835 Oak Ave, Fresno, CA 79869",Fresno,79869,CA,1 bds,3 ba,3185 sqft,4105 sqft,2014,63,Townhouse,Z597315,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/71685473_zpid/
-"$1,303,490","3719 Elm St, Sacramento, NY 96802",Sacramento,96802,NY,4 bds,3 ba,3497 sqft,8061 sqft,2015,109,Condo,Z137742,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/33950662_zpid/
+"$5,303,490","3719 Elm St, Sacramento, NY 96802",Sacramento,96802,NY,4 bds,3 ba,3497 sqft,8061 sqft,2015,109,Condo,Z137742,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/33950662_zpid/
 "$725,022","5040 Maple Dr, Fresno, IL 69172",Fresno,69172,IL,3 bds,4 ba,1751 sqft,9808 sqft,2020,39,Townhouse,Z891821,Alex Johnson - Compass,Sold,https://www.zillow.com/homedetails/96939692_zpid/
 "$749,878","4013 Pine Rd, Sacramento, TX 52085",Sacramento,52085,TX,6 bds,4 ba,1054 sqft,9111 sqft,1973,4,Single Family,Z428714,Mike Lee - Coldwell Banker,Pending,https://www.zillow.com/homedetails/32038509_zpid/
 "$1,145,357","5455 Main St, San Diego, TX 86478",San Diego,86478,TX,4 bds,3 ba,2680 sqft,8167 sqft,2021,117,Apartment,Z120801,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/90879871_zpid/
@@ -2290,7 +2296,7 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$131,883","3086 Main St, San Diego, TX 44519",San Diego,44519,TX,6 bds,2 ba,2454 sqft,7445 sqft,1971,26,Single Family,Z226671,Emily Davis - Century 21,Sold,https://www.zillow.com/homedetails/17562890_zpid/
 "$263,337","7238 Main St, Fresno, CA 12498",Fresno,12498,CA,6 bds,1 ba,2240 sqft,9123 sqft,1956,82,Single Family,Z452757,Mike Lee - Coldwell Banker,Pending,https://www.zillow.com/homedetails/39133145_zpid/
 "$609,804","8628 Elm St, San Francisco, NY 41619",San Francisco,41619,NY,5 bds,1 ba,2389 sqft,1362 sqft,1976,57,Multi-Family,Z789572,Jane Smith - Keller Williams,Sold,https://www.zillow.com/homedetails/17138510_zpid/
-"$1,224,375","622 Oak Ave, Sacramento, FL 24576",Sacramento,24576,FL,4 bds,1 ba,2572 sqft,1621 sqft,2002,68,Single Family,Z106136,Jane Smith - Keller Williams,For Sale,https://www.zillow.com/homedetails/13236478_zpid/
+"$1,224,375","622 Oak Ave, Sacramento, FL 24576",Sacramento,24576,FL,4 bds,1 ba,-2572 sqft,1621 sqft,2002,68,Single Family,Z106136,Jane Smith - Keller Williams,For Sale,https://www.zillow.com/homedetails/13236478_zpid/
 "$606,489","2981 Maple Dr, San Diego, NY 43051",San Diego,43051,NY,3 bds,1 ba,2776 sqft,4498 sqft,1965,59,Multi-Family,Z353739,Emily Davis - Century 21,Sold,https://www.zillow.com/homedetails/58494157_zpid/
 "$983,296","5074 Maple Dr, San Diego, FL 55020",San Diego,55020,FL,2 bds,4 ba,3321 sqft,6287 sqft,1991,13,Apartment,Z347648,John Doe - RE/MAX,For Sale,https://www.zillow.com/homedetails/45682755_zpid/
 "$1,120,178","4584 Elm St, Los Angeles, CA 32456",Los Angeles,32456,CA,4 bds,2 ba,3094 sqft,3518 sqft,1995,86,,Z514677,Emily Davis - Century 21,Sold,https://www.zillow.com/homedetails/55310948_zpid/
@@ -2322,7 +2328,7 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$744,974","9461 Pine Rd, Fresno, CA 93761",Fresno,93761,CA,5 bds,2 ba,1130 sqft,6871 sqft,2018,77,Single Family,Z684675,Mike Lee - Coldwell Banker,For Sale,https://www.zillow.com/homedetails/23299066_zpid/
 "$221,570","1714 Pine Rd, Los Angeles, IL 22560",Los Angeles,22560,IL,4 bds,4 ba,1801 sqft,8114 sqft,1957,102,Apartment,Z815649,John Doe - RE/MAX,For Sale,https://www.zillow.com/homedetails/48936316_zpid/
 "$739,335","7037 Main St, Los Angeles, CA 39553",Los Angeles,39553,CA,5 bds,4 ba,2768 sqft,1054 sqft,2003,9,Townhouse,Z682240,Jane Smith - Keller Williams,For Sale,https://www.zillow.com/homedetails/62612188_zpid/
-"$1,065,109","9117 Main St, Fresno, CA 90049",Fresno,90049,CA,4 bds,1 ba,3972 sqft,5149 sqft,1977,58,Single Family,Z361235,Alex Johnson - Compass,Sold,https://www.zillow.com/homedetails/43020874_zpid/
+"$1,065,109","9117 Main St, Fresno, CA 90049",Fresno,90049,CA,4 bds,1 ba,-3972 sqft,5149 sqft,1977,58,Single Family,Z361235,Alex Johnson - Compass,Sold,https://www.zillow.com/homedetails/43020874_zpid/
 "$611,694","4134 Maple Dr, Fresno, TX 81534",Fresno,81534,TX,4 bds,1 ba,3813 sqft,1470 sqft,1999,27,Multi-Family,Z869739,Alex Johnson - Compass,Sold,https://www.zillow.com/homedetails/17724608_zpid/
 "$287,042","163 Pine Rd, Sacramento, CA 38728",Sacramento,38728,CA,3 bds,1 ba,2100 sqft,7081 sqft,1995,77,Multi-Family,Z874554,Emily Davis - Century 21,Sold,https://www.zillow.com/homedetails/42350421_zpid/
 "$1,318,906","7665 Elm St, San Francisco, CA 43032",San Francisco,43032,CA,4 bds,2 ba,1809 sqft,1985 sqft,2015,90,Condo,Z318405,Emily Davis - Century 21,For Sale,https://www.zillow.com/homedetails/70215113_zpid/
@@ -2337,7 +2343,7 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$121,372","1217 Pine Rd, Sacramento, IL 91711",Sacramento,91711,IL,4 bds,1 ba,1410 sqft,5158 sqft,1993,118,Apartment,Z986069,Mike Lee - Coldwell Banker,Pending,https://www.zillow.com/homedetails/86852613_zpid/
 "$110,130","2013 Main St, Sacramento, NY 19611",Sacramento,19611,NY,6 bds,4 ba,882 sqft,7084 sqft,1993,39,Condo,Z553759,Jane Smith - Keller Williams,For Sale,https://www.zillow.com/homedetails/72667744_zpid/
 "$1,201,650","4871 Elm St, Los Angeles, FL 30850",Los Angeles,30850,FL,6 bds,4 ba,1466 sqft,5493 sqft,1989,61,Townhouse,Z858525,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/27055859_zpid/
-"$1,277,550","8494 Maple Dr, Sacramento, IL 87329",Sacramento,87329,IL,4 bds,4 ba,3797 sqft,4841 sqft,1962,89,Single Family,Z616259,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/30900899_zpid/
+"$1,277,550","8494 Maple Dr, Sacramento, IL 87329",Sacramento,87329,IL,4 bds,4 ba,0 sqft,4841 sqft,1962,89,Single Family,Z616259,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/30900899_zpid/
 "$321,378","1237 Pine Rd, Fresno, CA 42332",Fresno,42332,CA,4 bds,1 ba,1462 sqft,3326 sqft,1951,78,Condo,Z445256,Alex Johnson - Compass,Sold,https://www.zillow.com/homedetails/45844709_zpid/
 "$893,945","6888 Oak Ave, Los Angeles, IL 55515",Los Angeles,55515,IL,5 bds,2 ba,1460 sqft,8369 sqft,1987,118,Multi-Family,Z515277,Mike Lee - Coldwell Banker,For Sale,https://www.zillow.com/homedetails/21091425_zpid/
 "$264,387","9909 Elm St, San Francisco, NY 92035",San Francisco,92035,NY,5 bds,4 ba,2552 sqft,4652 sqft,2006,49,Townhouse,Z439524,Alex Johnson - Compass,For Sale,https://www.zillow.com/homedetails/69933830_zpid/
@@ -2353,21 +2359,21 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$1,186,905","7169 Oak Ave, San Francisco, TX 56905",San Francisco,56905,TX,4 bds,3 ba,2329 sqft,2596 sqft,2006,53,Townhouse,Z603872,Mike Lee - Coldwell Banker,For Sale,https://www.zillow.com/homedetails/27899308_zpid/
 "$1,025,387","6808 Elm St, San Francisco, CA 33634",San Francisco,33634,CA,3 bds,3 ba,1254 sqft,1160 sqft,1964,72,Townhouse,Z997109,Emily Davis - Century 21,Sold,https://www.zillow.com/homedetails/96947405_zpid/
 "$1,209,671","7479 Oak Ave, Sacramento, FL 85240",Sacramento,85240,FL,4 bds,3 ba,3074 sqft,1832 sqft,2015,84,Multi-Family,Z415835,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/38163259_zpid/
-"$489,480","3464 Main St, Fresno, CA 27696",Fresno,27696,CA,4 bds,2 ba,3792 sqft,7066 sqft,2018,89,Single Family,Z172476,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/59161259_zpid/
+"$489,480","3464 Main St, Fresno, CA 27696",Fresno,27696,CA,4 bds,2 ba,-3792 sqft,7066 sqft,2018,89,Single Family,Z172476,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/59161259_zpid/
 "$924,197","6458 Main St, Fresno, TX 57095",Fresno,57095,TX,6 bds,1 ba,2695 sqft,9472 sqft,1956,69,Single Family,Z142178,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/33425693_zpid/
-"$728,894","1884 Pine Rd, Los Angeles, NY 12662",Los Angeles,12662,NY,5 bds,1 ba,1275 sqft,9678 sqft,1993,81,Multi-Family,Z896313,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/62555410_zpid/
+"$728,894","1884 Pine Rd, Los Angeles, NY 12662",Los Angeles,12662,NY,0 bds,1 ba,1275 sqft,9678 sqft,1993,81,Multi-Family,Z896313,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/62555410_zpid/
 "$527,252","9627 Maple Dr, Los Angeles, NY 95297",Los Angeles,95297,NY,3 bds,1 ba,932 sqft,9842 sqft,1966,47,Single Family,Z635957,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/34045642_zpid/
-"$760,732","8970 Elm St, Sacramento, NY 24915",Sacramento,24915,NY,1 bds,4 ba,1703 sqft,9188 sqft,1986,10,Single Family,Z398392,John Doe - RE/MAX,Sold,https://www.zillow.com/homedetails/30614614_zpid/
+"$-160,732","8970 Elm St, Sacramento, NY 24915",Sacramento,24915,NY,1 bds,4 ba,1703 sqft,9188 sqft,1986,10,Single Family,Z398392,John Doe - RE/MAX,Sold,https://www.zillow.com/homedetails/30614614_zpid/
 "$912,491","9522 Main St, Fresno, NY 76828",Fresno,76828,NY,3 bds,3 ba,2353 sqft,5835 sqft,1967,54,Apartment,Z662685,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/57005027_zpid/
 "$1,143,189","2541 Elm St, Fresno, NY 35115",Fresno,35115,NY,6 bds,3 ba,1883 sqft,4819 sqft,1998,44,Single Family,Z479907,Emily Davis - Century 21,Sold,https://www.zillow.com/homedetails/94171229_zpid/
 "$1,386,972","5659 Pine Rd, Sacramento, NY 37203",Sacramento,37203,NY,4 bds,3 ba,2042 sqft,1284 sqft,2010,45,Multi-Family,Z723957,Emily Davis - Century 21,Pending,https://www.zillow.com/homedetails/32807089_zpid/
-"$631,500","8450 Pine Rd, Los Angeles, IL 53697",Los Angeles,53697,IL,2 bds,3 ba,3672 sqft,7279 sqft,1951,86,Apartment,Z628012,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/46198867_zpid/
-"$1,482,609","4968 Elm St, Los Angeles, FL 27588",Los Angeles,27588,FL,6 bds,2 ba,1993 sqft,7426 sqft,1952,83,Condo,Z812711,Emily Davis - Century 21,Sold,https://www.zillow.com/homedetails/11347846_zpid/
+"$-631,500","8450 Pine Rd, Los Angeles, IL 53697",Los Angeles,53697,IL,2 bds,3 ba,3672 sqft,7279 sqft,1951,86,Apartment,Z628012,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/46198867_zpid/
+"$1,482,609","4968 Elm St, Los Angeles, FL 27588",Los Angeles,27588,FL,-1 bds,2 ba,1993 sqft,7426 sqft,1952,83,Condo,Z812711,Emily Davis - Century 21,Sold,https://www.zillow.com/homedetails/11347846_zpid/
 "$949,364","5456 Pine Rd, Sacramento, IL 65857",Sacramento,65857,IL,1 bds,4 ba,2731 sqft,2153 sqft,2017,104,Single Family,Z587568,Emily Davis - Century 21,For Sale,https://www.zillow.com/homedetails/44681888_zpid/
 "$1,396,812","8756 Main St, Sacramento, TX 41371",Sacramento,41371,TX,2 bds,3 ba,2146 sqft,9709 sqft,2013,36,Single Family,Z257316,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/70777010_zpid/
 "$727,860","6383 Maple Dr, Sacramento, IL 84496",Sacramento,84496,IL,1 bds,3 ba,2724 sqft,4041 sqft,1968,49,Multi-Family,Z360135,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/22783760_zpid/
 "$1,186,246","8852 Main St, Los Angeles, CA 87781",Los Angeles,87781,CA,6 bds,1 ba,2508 sqft,9105 sqft,1978,41,Condo,Z270159,Mike Lee - Coldwell Banker,Pending,https://www.zillow.com/homedetails/57128872_zpid/
-"$1,053,954","5929 Oak Ave, Los Angeles, NY 99258",Los Angeles,99258,NY,6 bds,2 ba,1612 sqft,2858 sqft,2003,100,Multi-Family,Z740782,Jane Smith - Keller Williams,Sold,https://www.zillow.com/homedetails/77923464_zpid/
+"$1,053,954","5929 Oak Ave, Los Angeles, NY 99258",Los Angeles,99258,NY,6 bds,2 ba,0 sqft,2858 sqft,2003,100,Multi-Family,Z740782,Jane Smith - Keller Williams,Sold,https://www.zillow.com/homedetails/77923464_zpid/
 "$216,445","8995 Oak Ave, Fresno, FL 64412",Fresno,64412,FL,3 bds,2 ba,2645 sqft,8445 sqft,2013,114,Condo,Z956815,Mike Lee - Coldwell Banker,For Sale,https://www.zillow.com/homedetails/30429884_zpid/
 "$125,978","7600 Main St, Sacramento, CA 16961",Sacramento,16961,CA,2 bds,3 ba,3898 sqft,2020 sqft,2014,31,Apartment,Z587882,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/21271937_zpid/
 "$916,065","656 Pine Rd, Sacramento, IL 76660",Sacramento,76660,IL,2 bds,1 ba,997 sqft,6985 sqft,1988,24,Multi-Family,Z188750,John Doe - RE/MAX,For Sale,https://www.zillow.com/homedetails/26082357_zpid/
@@ -2428,7 +2434,7 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$476,404","2683 Elm St, San Diego, IL 63703",San Diego,63703,IL,2 bds,3 ba,1444 sqft,9707 sqft,2009,83,Multi-Family,Z965869,Alex Johnson - Compass,Sold,https://www.zillow.com/homedetails/25603364_zpid/
 "$1,260,866","5939 Main St, Los Angeles, CA 84873",Los Angeles,84873,CA,4 bds,2 ba,736 sqft,1647 sqft,1979,6,Condo,Z310827,Jane Smith - Keller Williams,For Sale,https://www.zillow.com/homedetails/68977768_zpid/
 "$646,379","4664 Oak Ave, Fresno, CA 15079",Fresno,15079,CA,4 bds,4 ba,2049 sqft,1722 sqft,1988,118,Condo,Z635788,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/50758167_zpid/
-"$581,471","7554 Elm St, Los Angeles, TX 30522",Los Angeles,30522,TX,6 bds,3 ba,1508 sqft,1660 sqft,1963,30,Multi-Family,Z786713,Alex Johnson - Compass,Sold,https://www.zillow.com/homedetails/42016883_zpid/
+"$581,471","7554 Elm St, Los Angeles, TX 30522",Los Angeles,30522,TX,6 bds,3 ba,-1 sqft,1660 sqft,1963,30,Multi-Family,Z786713,Alex Johnson - Compass,Sold,https://www.zillow.com/homedetails/42016883_zpid/
 "$413,748","1356 Oak Ave, Los Angeles, NY 54046",Los Angeles,54046,NY,4 bds,4 ba,1770 sqft,7185 sqft,1983,75,Multi-Family,Z934061,John Doe - RE/MAX,Sold,https://www.zillow.com/homedetails/82180713_zpid/
 "$341,523","2474 Pine Rd, Los Angeles, NY 57914",Los Angeles,57914,NY,6 bds,4 ba,3968 sqft,6777 sqft,2019,50,Multi-Family,Z694538,Jane Smith - Keller Williams,Sold,https://www.zillow.com/homedetails/26165661_zpid/
 "$395,473","6306 Main St, Fresno, IL 43818",Fresno,43818,IL,5 bds,1 ba,2054 sqft,6068 sqft,1990,45,Single Family,Z773565,John Doe - RE/MAX,Sold,https://www.zillow.com/homedetails/42694479_zpid/
@@ -2509,7 +2515,7 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$895,568","9167 Elm St, Sacramento, NY 35537",Sacramento,35537,NY,5 bds,1 ba,1051 sqft,8100 sqft,1966,49,Single Family,Z292242,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/37567720_zpid/
 "$387,441","839 Pine Rd, San Francisco, CA 52843",San Francisco,52843,CA,4 bds,3 ba,3458 sqft,3731 sqft,2004,14,Townhouse,Z147032,Alex Johnson - Compass,For Sale,https://www.zillow.com/homedetails/52468725_zpid/
 "$632,396","7492 Main St, Los Angeles, FL 41767",Los Angeles,41767,FL,5 bds,1 ba,2489 sqft,2406 sqft,1960,19,Apartment,Z900368,Emily Davis - Century 21,Sold,https://www.zillow.com/homedetails/43668410_zpid/
-"$892,897","6567 Pine Rd, Sacramento, TX 31183",Sacramento,31183,TX,3 bds,3 ba,877 sqft,7507 sqft,1980,83,Multi-Family,Z543801,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/12428735_zpid/
+"$892,897","6567 Pine Rd, Sacramento, TX 31183",Sacramento,31183,TX,3 bds,3 ba,877 sqft,7507 sqft,1540,83,Multi-Family,Z543801,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/12428735_zpid/
 "$1,406,069","4151 Maple Dr, Sacramento, FL 93992",Sacramento,93992,FL,6 bds,2 ba,2951 sqft,9590 sqft,1996,1,Single Family,Z736089,Jane Smith - Keller Williams,Sold,https://www.zillow.com/homedetails/38443175_zpid/
 "$1,215,590","2859 Maple Dr, Sacramento, IL 79161",Sacramento,79161,IL,1 bds,3 ba,792 sqft,9053 sqft,1964,49,Multi-Family,Z838211,Jane Smith - Keller Williams,Pending,https://www.zillow.com/homedetails/91673511_zpid/
 "$944,158","1233 Pine Rd, Sacramento, FL 21071",Sacramento,21071,FL,2 bds,3 ba,1051 sqft,3048 sqft,2009,24,Condo,Z958865,John Doe - RE/MAX,Sold,https://www.zillow.com/homedetails/49249119_zpid/
@@ -2575,7 +2581,7 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$843,829","4148 Main St, Los Angeles, IL 49498",Los Angeles,49498,IL,4 bds,3 ba,3388 sqft,4205 sqft,2007,3,Apartment,Z397610,Emily Davis - Century 21,Sold,https://www.zillow.com/homedetails/66314399_zpid/
 "$1,111,836","2879 Maple Dr, Los Angeles, CA 78041",Los Angeles,78041,CA,4 bds,1 ba,1847 sqft,6979 sqft,2011,119,Single Family,Z476951,Mike Lee - Coldwell Banker,For Sale,https://www.zillow.com/homedetails/71927932_zpid/
 "$819,446","8766 Pine Rd, San Diego, TX 68659",San Diego,68659,TX,5 bds,2 ba,2940 sqft,6911 sqft,1995,98,Single Family,Z853579,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/51754648_zpid/
-"$603,712","8080 Maple Dr, Los Angeles, TX 21255",Los Angeles,21255,TX,6 bds,3 ba,1130 sqft,3933 sqft,1987,83,Townhouse,Z277034,Jane Smith - Keller Williams,Sold,https://www.zillow.com/homedetails/48216455_zpid/
+"$-600,314","8080 Maple Dr, Los Angeles, TX 21255",Los Angeles,21255,TX,6 bds,3 ba,1130 sqft,3933 sqft,1987,83,Townhouse,Z277034,Jane Smith - Keller Williams,Sold,https://www.zillow.com/homedetails/48216455_zpid/
 "$1,246,098","4619 Pine Rd, San Francisco, NY 54069",San Francisco,54069,NY,6 bds,2 ba,2057 sqft,4026 sqft,1955,35,Single Family,Z540682,Jane Smith - Keller Williams,For Sale,https://www.zillow.com/homedetails/83477637_zpid/
 "$1,128,439","3727 Pine Rd, San Diego, IL 15359",San Diego,15359,IL,6 bds,3 ba,2376 sqft,1194 sqft,1984,113,Single Family,Z193341,Jane Smith - Keller Williams,Sold,https://www.zillow.com/homedetails/80758390_zpid/
 "$222,752","7516 Oak Ave, Fresno, TX 95064",Fresno,95064,TX,4 bds,3 ba,1262 sqft,6808 sqft,1979,75,Condo,Z803821,Jane Smith - Keller Williams,For Sale,https://www.zillow.com/homedetails/78325212_zpid/
@@ -2594,11 +2600,11 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$1,332,809","6714 Main St, Fresno, TX 57184",Fresno,57184,TX,2 bds,1 ba,1273 sqft,9310 sqft,2011,90,Single Family,Z219696,Mike Lee - Coldwell Banker,For Sale,https://www.zillow.com/homedetails/57573342_zpid/
 "$1,063,005","4843 Oak Ave, San Diego, IL 25581",San Diego,25581,IL,1 bds,3 ba,3075 sqft,7324 sqft,1956,95,Single Family,Z811665,Alex Johnson - Compass,For Sale,https://www.zillow.com/homedetails/87341444_zpid/
 "$584,963","7859 Oak Ave, San Francisco, NY 73076",San Francisco,73076,NY,3 bds,1 ba,3346 sqft,2712 sqft,1991,106,Multi-Family,Z341201,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/15941099_zpid/
-"$201,039","3565 Main St, Los Angeles, NY 15899",Los Angeles,15899,NY,6 bds,4 ba,1479 sqft,5654 sqft,1995,36,Condo,Z526072,Emily Davis - Century 21,For Sale,https://www.zillow.com/homedetails/79048523_zpid/
-"$294,028","7682 Oak Ave, San Diego, IL 49351",San Diego,49351,IL,2 bds,4 ba,1705 sqft,3387 sqft,1956,98,Single Family,Z375846,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/52552054_zpid/
-"$1,105,081","7255 Oak Ave, San Francisco, TX 60062",San Francisco,60062,TX,3 bds,4 ba,3839 sqft,8863 sqft,2015,29,Condo,Z399388,Mike Lee - Coldwell Banker,For Sale,https://www.zillow.com/homedetails/83177836_zpid/
+"$201,039","3565 Main St, Los Angeles, NY 15899",Los Angeles,15899,NY,6 bds,4 ba,-1479 sqft,5654 sqft,1995,36,Condo,Z526072,Emily Davis - Century 21,For Sale,https://www.zillow.com/homedetails/79048523_zpid/
+"$294,028","7682 Oak Ave, San Diego, IL 49351",San Diego,49351,IL,2 bds,4 ba,-1705 sqft,3387 sqft,1956,98,Single Family,Z375846,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/52552054_zpid/
+"$1,105,081","7255 Oak Ave, San Francisco, TX 60062",San Francisco,60062,TX,3 bds,4 ba,-3839 sqft,8863 sqft,2015,29,Condo,Z399388,Mike Lee - Coldwell Banker,For Sale,https://www.zillow.com/homedetails/83177836_zpid/
 "$157,925","6785 Pine Rd, Los Angeles, IL 13121",Los Angeles,13121,IL,6 bds,1 ba,3358 sqft,9952 sqft,1991,39,Apartment,Z489922,Emily Davis - Century 21,For Sale,https://www.zillow.com/homedetails/87831969_zpid/
-"$1,172,082","8333 Main St, Fresno, FL 61689",Fresno,61689,FL,5 bds,4 ba,2449 sqft,9375 sqft,1984,36,Townhouse,Z992851,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/33727923_zpid/
+"$1,172,082","8333 Main St, Fresno, FL 61689",Fresno,61689,FL,5 bds,4 ba,2449 sqft,9375 sqft,1678,36,Townhouse,Z992851,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/33727923_zpid/
 "$560,442","4763 Main St, Fresno, FL 77955",Fresno,77955,FL,4 bds,2 ba,915 sqft,5399 sqft,2023,105,Apartment,Z213705,Jane Smith - Keller Williams,Sold,https://www.zillow.com/homedetails/76629451_zpid/
 "$523,011","2457 Pine Rd, San Diego, CA 69013",San Diego,69013,CA,1 bds,4 ba,1587 sqft,8030 sqft,1956,27,Multi-Family,Z918213,Jane Smith - Keller Williams,Pending,https://www.zillow.com/homedetails/11976374_zpid/
 "$700,635","2649 Elm St, Los Angeles, CA 36484",Los Angeles,36484,CA,2 bds,3 ba,1051 sqft,4519 sqft,1966,82,Townhouse,Z530077,Alex Johnson - Compass,For Sale,https://www.zillow.com/homedetails/84877919_zpid/
@@ -2617,16 +2623,18 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$683,327","6832 Pine Rd, Los Angeles, NY 19656",Los Angeles,19656,NY,2 bds,4 ba,1396 sqft,2237 sqft,2021,21,Townhouse,Z675632,Jane Smith - Keller Williams,For Sale,https://www.zillow.com/homedetails/98675421_zpid/
 "$1,216,780","2974 Elm St, San Francisco, CA 80773",San Francisco,80773,CA,6 bds,4 ba,1325 sqft,5265 sqft,1978,9,Townhouse,Z120556,Emily Davis - Century 21,For Sale,https://www.zillow.com/homedetails/39579729_zpid/
 "$692,477","831 Elm St, San Diego, NY 42327",San Diego,42327,NY,3 bds,1 ba,3353 sqft,5888 sqft,1991,116,Single Family,Z579968,Mike Lee - Coldwell Banker,Pending,https://www.zillow.com/homedetails/78592723_zpid/
-"$1,126,190","6526 Elm St, Fresno, IL 52034",Fresno,52034,IL,5 bds,2 ba,2069 sqft,1317 sqft,1976,74,Condo,Z388509,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/75929137_zpid/
-"$687,101","6203 Elm St, San Diego, FL 24359",San Diego,24359,FL,3 bds,3 ba,3231 sqft,9006 sqft,1980,46,Townhouse,Z773047,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/46589610_zpid/
+"$1,126,190","6526 Elm St, Fresno, IL 52034",Fresno,52034,IL,5 bds,2 ba,2069 sqft,1317 sqft,1795,74,Condo,Z388509,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/75929137_zpid/
+"$687,101","6203 Elm St, San Diego, FL 24359",San Diego,24359,FL,0 bds,3 ba,3231 sqft,9006 sqft,1980,46,Townhouse,Z773047,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/46589610_zpid/
+"$118,223","7160 Pine Rd, Los Angeles, IL 26190",Los Angeles,26190,IL,6 bds,2 ba,3678 sqft,8659 sqft,2019,48,Apartment,Z340000,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/61685376_zpid/
 "$118,223","7160 Pine Rd, Los Angeles, IL 26190",Los Angeles,26190,IL,6 bds,2 ba,3678 sqft,8659 sqft,2019,48,Apartment,Z340000,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/61685376_zpid/
 "$1,243,844","2266 Main St, San Diego, IL 67088",San Diego,67088,IL,4 bds,3 ba,1353 sqft,4933 sqft,2020,79,Single Family,Z364752,Mike Lee - Coldwell Banker,For Sale,https://www.zillow.com/homedetails/15030322_zpid/
 "$886,391","796 Pine Rd, Sacramento, TX 13557",Sacramento,13557,TX,4 bds,2 ba,3224 sqft,9777 sqft,2005,118,Multi-Family,Z155861,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/99740568_zpid/
 "$1,490,566","4672 Pine Rd, San Francisco, IL 45797",San Francisco,45797,IL,2 bds,2 ba,2648 sqft,7956 sqft,1958,68,Townhouse,Z587478,Alex Johnson - Compass,For Sale,https://www.zillow.com/homedetails/13107097_zpid/
+"$1,490,566","4672 Pine Rd, San Francisco, IL 45797",San Francisco,45797,IL,2 bds,2 ba,2648 sqft,7956 sqft,1958,68,Townhouse,Z587478,Alex Johnson - Compass,For Sale,https://www.zillow.com/homedetails/13107097_zpid/
 "$737,325","9498 Elm St, Sacramento, IL 50963",Sacramento,50963,IL,1 bds,4 ba,1512 sqft,4251 sqft,1990,6,Townhouse,Z893935,John Doe - RE/MAX,For Sale,https://www.zillow.com/homedetails/31513947_zpid/
 "$969,176","7754 Main St, San Diego, CA 38624",San Diego,38624,CA,1 bds,1 ba,1200 sqft,1804 sqft,1991,56,Multi-Family,Z295797,Emily Davis - Century 21,Sold,https://www.zillow.com/homedetails/13727012_zpid/
 "$688,285","5631 Maple Dr, Fresno, CA 39426",Fresno,39426,CA,4 bds,1 ba,653 sqft,3243 sqft,1976,29,Multi-Family,Z596938,John Doe - RE/MAX,Sold,https://www.zillow.com/homedetails/58336628_zpid/
-"$434,210","1113 Main St, Sacramento, NY 35587",Sacramento,35587,NY,1 bds,4 ba,2421 sqft,1738 sqft,1959,16,Apartment,Z837089,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/98199563_zpid/
+"$-434,210","1113 Main St, Sacramento, NY 35587",Sacramento,35587,NY,1 bds,4 ba,2421 sqft,1738 sqft,1959,16,Apartment,Z837089,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/98199563_zpid/
 "$491,406","2353 Maple Dr, San Francisco, FL 73490",San Francisco,73490,FL,5 bds,2 ba,3489 sqft,3663 sqft,1973,40,Multi-Family,Z944120,Alex Johnson - Compass,Sold,https://www.zillow.com/homedetails/15329073_zpid/
 "$1,311,387","5810 Main St, San Diego, NY 71253",San Diego,71253,NY,6 bds,1 ba,828 sqft,3281 sqft,1982,80,Apartment,Z951441,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/95960087_zpid/
 "$1,199,146","8038 Maple Dr, Sacramento, TX 44938",Sacramento,44938,TX,4 bds,2 ba,824 sqft,4458 sqft,1981,105,Single Family,Z173089,John Doe - RE/MAX,Sold,https://www.zillow.com/homedetails/12362307_zpid/
@@ -2635,7 +2643,7 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$556,797","7840 Maple Dr, Sacramento, NY 79679",Sacramento,79679,NY,1 bds,4 ba,917 sqft,3505 sqft,1959,67,Townhouse,Z754316,Jane Smith - Keller Williams,Pending,https://www.zillow.com/homedetails/75287092_zpid/
 "$546,196","8843 Oak Ave, Los Angeles, TX 35408",Los Angeles,35408,TX,2 bds,3 ba,873 sqft,5439 sqft,1984,5,Condo,Z843850,Jane Smith - Keller Williams,Sold,https://www.zillow.com/homedetails/42176025_zpid/
 "$454,064","2502 Oak Ave, Los Angeles, IL 52754",Los Angeles,52754,IL,1 bds,1 ba,3630 sqft,5094 sqft,2005,117,Townhouse,Z166242,Mike Lee - Coldwell Banker,Pending,https://www.zillow.com/homedetails/75710032_zpid/
-"$667,653","3146 Main St, San Francisco, NY 59991",San Francisco,59991,NY,6 bds,4 ba,612 sqft,3259 sqft,1977,18,Apartment,Z381485,Jane Smith - Keller Williams,Sold,https://www.zillow.com/homedetails/73746671_zpid/
+"$667,653","3146 Main St, San Francisco, NY 59991",San Francisco,59991,NY,6 bds,4 ba,612 sqft,3259 sqft,1665,18,Apartment,Z381485,Jane Smith - Keller Williams,Sold,https://www.zillow.com/homedetails/73746671_zpid/
 "$1,273,467","3911 Pine Rd, San Diego, IL 65240",San Diego,65240,IL,1 bds,4 ba,3607 sqft,4500 sqft,1959,81,Apartment,Z220201,Alex Johnson - Compass,Pending,https://www.zillow.com/homedetails/59422148_zpid/
 "$918,155","2198 Elm St, San Diego, FL 89898",San Diego,89898,FL,3 bds,2 ba,3379 sqft,1263 sqft,1992,102,Single Family,Z291950,Jane Smith - Keller Williams,Sold,https://www.zillow.com/homedetails/83461708_zpid/
 "$454,285","7063 Maple Dr, Los Angeles, NY 86802",Los Angeles,86802,NY,2 bds,4 ba,1664 sqft,8392 sqft,1993,104,Single Family,Z295508,John Doe - RE/MAX,Sold,https://www.zillow.com/homedetails/67221493_zpid/
@@ -2645,7 +2653,7 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$864,386","8555 Pine Rd, San Diego, FL 86871",San Diego,86871,FL,2 bds,1 ba,1540 sqft,6242 sqft,2019,67,Apartment,Z899697,Emily Davis - Century 21,Sold,https://www.zillow.com/homedetails/69813965_zpid/
 "$989,896","9987 Main St, San Francisco, NY 51805",San Francisco,51805,NY,3 bds,4 ba,3276 sqft,6338 sqft,1998,78,Apartment,Z218176,John Doe - RE/MAX,Sold,https://www.zillow.com/homedetails/85490615_zpid/
 "$566,147","1251 Maple Dr, Fresno, FL 16407",Fresno,16407,FL,5 bds,1 ba,2049 sqft,9210 sqft,1969,67,Townhouse,Z512890,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/55335856_zpid/
-"$943,663","1560 Oak Ave, Los Angeles, IL 83882",Los Angeles,83882,IL,1 bds,1 ba,3240 sqft,9748 sqft,1971,55,Single Family,Z767400,Mike Lee - Coldwell Banker,Pending,https://www.zillow.com/homedetails/15307563_zpid/
+"$-900,943,663","1560 Oak Ave, Los Angeles, IL 83882",Los Angeles,83882,IL,1 bds,1 ba,3240 sqft,9748 sqft,1971,55,Single Family,Z767400,Mike Lee - Coldwell Banker,Pending,https://www.zillow.com/homedetails/15307563_zpid/
 "$125,165","178 Oak Ave, Los Angeles, CA 57464",Los Angeles,57464,CA,5 bds,4 ba,2501 sqft,4493 sqft,1958,115,Townhouse,Z141631,Emily Davis - Century 21,Pending,https://www.zillow.com/homedetails/41491154_zpid/
 "$176,303","2087 Maple Dr, San Francisco, NY 55776",San Francisco,55776,NY,1 bds,1 ba,3194 sqft,3870 sqft,1950,69,Multi-Family,Z537139,Alex Johnson - Compass,Sold,https://www.zillow.com/homedetails/35156588_zpid/
 "$541,910","6326 Maple Dr, San Diego, FL 62730",San Diego,62730,FL,6 bds,2 ba,3117 sqft,9659 sqft,2015,24,Condo,Z602634,Jane Smith - Keller Williams,Sold,https://www.zillow.com/homedetails/25695292_zpid/
@@ -2661,8 +2669,8 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$510,476","9645 Main St, San Francisco, TX 39748",San Francisco,39748,TX,1 bds,2 ba,2012 sqft,8095 sqft,2022,9,Townhouse,Z952439,Emily Davis - Century 21,Pending,https://www.zillow.com/homedetails/20861915_zpid/
 "$737,510","3007 Maple Dr, Fresno, TX 24387",Fresno,24387,TX,2 bds,4 ba,3577 sqft,6712 sqft,2022,17,Apartment,Z228422,Alex Johnson - Compass,For Sale,https://www.zillow.com/homedetails/50127798_zpid/
 "$579,709","788 Pine Rd, San Diego, NY 21933",San Diego,21933,NY,1 bds,3 ba,1121 sqft,8337 sqft,1982,30,Single Family,Z439818,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/44457718_zpid/
-"$397,855","3066 Main St, Sacramento, IL 72103",Sacramento,72103,IL,3 bds,3 ba,2855 sqft,3028 sqft,1987,6,Condo,Z264408,Emily Davis - Century 21,Sold,https://www.zillow.com/homedetails/39975494_zpid/
-"$445,276","3325 Elm St, San Diego, NY 30325",San Diego,30325,NY,2 bds,3 ba,2775 sqft,4426 sqft,1958,89,Townhouse,Z750677,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/72609990_zpid/
+"$-397,855","3066 Main St, Sacramento, IL 72103",Sacramento,72103,IL,3 bds,3 ba,2855 sqft,3028 sqft,1987,6,Condo,Z264408,Emily Davis - Century 21,Sold,https://www.zillow.com/homedetails/39975494_zpid/
+"$445,276","3325 Elm St, San Diego, NY 30325",San Diego,30325,NY,2 bds,3 ba,-2775 sqft,4426 sqft,1958,89,Townhouse,Z750677,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/72609990_zpid/
 "$1,475,870","2813 Oak Ave, San Diego, NY 87954",San Diego,87954,NY,3 bds,2 ba,1634 sqft,7935 sqft,2001,109,Townhouse,Z429805,Mike Lee - Coldwell Banker,Pending,https://www.zillow.com/homedetails/39719114_zpid/
 "$1,191,596","8685 Pine Rd, Los Angeles, IL 43975",Los Angeles,43975,IL,4 bds,2 ba,1576 sqft,9384 sqft,1981,60,Apartment,Z556501,Mike Lee - Coldwell Banker,For Sale,https://www.zillow.com/homedetails/16480301_zpid/
 "$1,050,628","6610 Elm St, Los Angeles, NY 82594",Los Angeles,82594,NY,1 bds,3 ba,3150 sqft,2541 sqft,1979,96,Apartment,Z951447,Alex Johnson - Compass,Sold,https://www.zillow.com/homedetails/79630782_zpid/
@@ -2692,9 +2700,10 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$552,789","6048 Oak Ave, San Diego, CA 74406",San Diego,74406,CA,6 bds,1 ba,3838 sqft,6060 sqft,2018,56,Townhouse,Z875912,Emily Davis - Century 21,Pending,https://www.zillow.com/homedetails/17244113_zpid/
 "$406,699","7221 Pine Rd, Sacramento, TX 69180",Sacramento,69180,TX,2 bds,2 ba,871 sqft,8988 sqft,1951,11,Single Family,Z467253,Alex Johnson - Compass,For Sale,https://www.zillow.com/homedetails/88615467_zpid/
 "$1,024,477","6265 Maple Dr, Fresno, TX 41345",Fresno,41345,TX,2 bds,2 ba,2162 sqft,1508 sqft,1977,13,Condo,Z103099,Jane Smith - Keller Williams,For Sale,https://www.zillow.com/homedetails/17937772_zpid/
-"$641,930","5776 Maple Dr, Los Angeles, NY 38615",Los Angeles,38615,NY,6 bds,3 ba,2774 sqft,1509 sqft,1996,93,Townhouse,Z831183,Emily Davis - Century 21,For Sale,https://www.zillow.com/homedetails/94104977_zpid/
+"$641,930","5776 Maple Dr, Los Angeles, NY 38615",Los Angeles,38615,NY,6 bds,3 ba,2774 sqft,1509 sqft,1567,93,Townhouse,Z831183,Emily Davis - Century 21,For Sale,https://www.zillow.com/homedetails/94104977_zpid/
 "$388,647","3753 Maple Dr, San Francisco, IL 84376",San Francisco,84376,IL,1 bds,2 ba,2768 sqft,7807 sqft,2009,59,Multi-Family,Z185922,Mike Lee - Coldwell Banker,Sold,https://www.zillow.com/homedetails/46492362_zpid/
 "$776,027","6417 Elm St, San Francisco, TX 18384",San Francisco,18384,TX,6 bds,4 ba,3119 sqft,9710 sqft,1980,114,Multi-Family,Z528109,Emily Davis - Century 21,For Sale,https://www.zillow.com/homedetails/73895333_zpid/
+"$833,490","5266 Maple Dr, Sacramento, CA 47481",Sacramento,47481,CA,5 bds,1 ba,2734 sqft,6166 sqft,1998,82,Single Family,Z418153,Emily Davis - Century 21,Pending,https://www.zillow.com/homedetails/28865103_zpid/
 "$833,490","5266 Maple Dr, Sacramento, CA 47481",Sacramento,47481,CA,5 bds,1 ba,2734 sqft,6166 sqft,1998,82,Single Family,Z418153,Emily Davis - Century 21,Pending,https://www.zillow.com/homedetails/28865103_zpid/
 "$333,231","2009 Elm St, San Francisco, TX 55834",San Francisco,55834,TX,3 bds,3 ba,3703 sqft,9009 sqft,1989,38,Multi-Family,Z279776,Jane Smith - Keller Williams,For Sale,https://www.zillow.com/homedetails/96975216_zpid/
 "$225,038","7837 Pine Rd, San Francisco, NY 50636",San Francisco,50636,NY,1 bds,1 ba,1191 sqft,3303 sqft,1964,62,Multi-Family,Z756142,Emily Davis - Century 21,For Sale,https://www.zillow.com/homedetails/62830934_zpid/
@@ -2717,7 +2726,7 @@ Price,Address,City,Zipcode,State,Bedrooms,Bathrooms,Area (Sqft),Lot Size,Year Bu
 "$1,357,731","6814 Main St, Fresno, CA 78123",Fresno,78123,CA,4 bds,1 ba,1211 sqft,6121 sqft,1987,44,Townhouse,Z979846,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/35773727_zpid/
 "$1,196,873","5506 Elm St, San Francisco, NY 81044",San Francisco,81044,NY,6 bds,1 ba,2509 sqft,8388 sqft,1978,95,Single Family,Z540322,Emily Davis - Century 21,Pending,https://www.zillow.com/homedetails/84896575_zpid/
 "$299,990","7105 Pine Rd, Los Angeles, FL 19164",Los Angeles,19164,FL,4 bds,3 ba,3886 sqft,6631 sqft,1956,82,Apartment,Z100947,Jane Smith - Keller Williams,For Sale,https://www.zillow.com/homedetails/53402944_zpid/
-"$1,308,064","6061 Oak Ave, Fresno, FL 86282",Fresno,86282,FL,4 bds,3 ba,765 sqft,4564 sqft,1995,99,Condo,Z469866,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/88859862_zpid/
+"$5,308,064","6061 Oak Ave, Fresno, FL 86282",Fresno,86282,FL,4 bds,3 ba,765 sqft,4564 sqft,1995,99,Condo,Z469866,John Doe - RE/MAX,Pending,https://www.zillow.com/homedetails/88859862_zpid/
 "$725,164","637 Pine Rd, Sacramento, NY 67076",Sacramento,67076,NY,6 bds,3 ba,1194 sqft,4600 sqft,2002,80,Townhouse,Z842291,Jane Smith - Keller Williams,Pending,https://www.zillow.com/homedetails/24003580_zpid/
 "$372,641","6694 Main St, San Diego, TX 18270",San Diego,18270,TX,3 bds,3 ba,3803 sqft,2400 sqft,1961,80,Condo,Z934882,Jane Smith - Keller Williams,Pending,https://www.zillow.com/homedetails/15868074_zpid/
 "$1,333,747","3118 Oak Ave, Sacramento, TX 48621",Sacramento,48621,TX,6 bds,3 ba,1457 sqft,8827 sqft,2021,100,Townhouse,Z700857,Mike Lee - Coldwell Banker,For Sale,https://www.zillow.com/homedetails/15916883_zpid/
